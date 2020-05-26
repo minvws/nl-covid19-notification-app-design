@@ -17,7 +17,7 @@ Mocht je een issue zien, of een idee hebben. Dan is het alvorens je hier direct 
   * Versie 0.3 — Week 21
   * Versie 0.2 — Week 20
   * [Versie 0.1](https://www.figma.com/file/wmShfQYISsfW9rle8plc5n/Contact-tracing---Public?node-id=1%3A18851) — [This Is What a Contact Tracing App Could Look Like](https://onezero.medium.com/openui-a6b9c3d741de)
-* [Code for NL - Covid App Desin - Slack Kanaal]()
+* [Code for NL, Slack Comunity, #minvws-design kanaal](https://doemee.codefor.nl/)
 
 ## Hoe kun je bijdragen?
 
@@ -33,7 +33,7 @@ Die vind je in het overzicht met Pages in de linkernavigatie. De page met het ho
 In de oude gedeelde versies blijven alle daar geplaatste comments en antwoorden beschikbaar.
 
 ### Praat en denk mee op ons Slack kanaal
-We hebben in samenwerking met https://www.codefor.nl zowel een technisch als een design slack kanaal. Vanuit het vaste design team zullen er mensen mee kijken, en waar mogelijk ook mee praten.
+Vragen of reacties via de Slack community van CodeForNL (#minvws-design kanaal). Meld je aan via https://doemee.codefor.nl/ Vanuit het vaste design team zullen er mensen mee kijken, en waar mogelijk ook mee praten.
 
 #### Draag bij aan onze publieke challenges
 Soms weten wij het ook even niet, en vragen we een nog actievere bijdrage. We vertalen de ontwerp uitdagingen waar we dan voor staan naar challenges, waaraan jij in een publiek toegankelijke Figma file kan bijdragen. Ieder in z’n eigen page.
