@@ -10,7 +10,7 @@ Hallo en welkom! Onze intentie is om het ontwikkelen en ontwerpen van de Nederla
 
 ## Hoe kun je bijdragen?
 
-### Kijk mee met de laatste designs, en houd on scherp
+### Kijk mee met de laatste designs, en houd ons scherp
 In deze Figma delen we de laatste stabiele versie van onze ontwerpen. We maken per onderdeel van de app duidelijk waar we nog aandacht aan moeten besteden, en wat al gedaan is.
 
 Draag bij door vragen te stellen en comments te plaatsen. Al je suggesties zijn welkom. En we doen onze uiterste best om alles te lezen, de goede suggesties mee te nemen en vragen te beantwoorden.
