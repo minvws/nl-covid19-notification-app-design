@@ -13,7 +13,7 @@ Als gebruikersonderzoeksers dragen we bij door:
 - Bram Duvigneau - accessibility onderzoeker - app
 - Job Jansweijer - usability onderzoeker - app
 - Maike Klip - contextueel onderzoeker 
-- Joris Leker - lead research
+- Joris Leker - lead onderzoek
 
 Vragen of reacties via de Slack community van CodeForNL (channel #minvws-design)
 Meld je aan via https://doemee.codefor.nl/
