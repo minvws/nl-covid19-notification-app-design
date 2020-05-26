@@ -24,18 +24,16 @@ Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19 noti
 
 1. Word lid van de [CodeForNL Slack](https://doemee.codefor.nl/) en ga naar het #minvws-design kanaal. 
 2. Wanneer je actief wil bijdragen aan het ontwerp dan kun je toegang vragen tot onze gesloten Figma door [@jelleprins](https://www.twitter.com/jelleprins) een DM te sturen met je e-mail adres, en vervolgens in de Figma een eigen pagina aan te maken.
-3. Voor de teksten die hier op GitHub gepubliceerd zijn kan je suggesties doen.
+3. Voor de teksten die hier op GitHub gepubliceerd zijn kan je via GitHub suggesties doen.
 
 ### Kijk mee met de laatste designs
-In deze Figma delen we de laatste versie van onze ontwerpen. We maken per onderdeel van de app duidelijk waar we nog aandacht aan moeten besteden, en wat al gedaan is.
+In [deze Figma](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) delen we de laatste versie van onze ontwerpen. We maken per onderdeel van de app duidelijk waar we nog aandacht aan moeten besteden, en wat al gedaan is.
 
-Draag bij door vragen te stellen en comments te plaatsen. Al je suggesties zijn welkom. En we doen onze uiterste best om alles te lezen, de goede suggesties mee te nemen en vragen te beantwoorden. We kunnen echter niet beloven dat we overal op in kunnen gaan.
-
-#### Bekijk vooral de laatste versie
 De page met het hoogste nummer is de huidige stabiele versie. Per versie is een changelog beschikbaar die laat zien wat we hebben aangepast sinds de vorige release.
 
-#### Oude versies blijven behouden
 In de oude gedeelde versies blijven alle daar geplaatste comments en antwoorden beschikbaar.
+
+Draag bij door vragen te stellen en comments te plaatsen. Al je suggesties zijn welkom. En we doen onze uiterste best om alles te lezen, de goede suggesties mee te nemen en vragen te beantwoorden. We kunnen echter niet beloven dat we overal op in kunnen gaan.
 
 ### Praat en denk mee op ons Slack kanaal
 Vragen of reacties via de Slack community van CodeForNL (#minvws-design kanaal). Meld je aan via https://doemee.codefor.nl/ Vanuit het vaste design team zullen er mensen mee kijken, en waar mogelijk ook mee praten.
