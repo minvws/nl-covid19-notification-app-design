@@ -10,7 +10,11 @@ Mocht je een issue zien, of een idee hebben. Dan is het alvorens je hier direct 
 * [Product Definitie](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/produkt-definitie.md)
 * [Design Principes](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/design-principes.md)
 * [Job Stories](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/job-stories.md)
-* [Laatste Figma Versie 0.4]()
+* Designs
+  * [Laatste Figma Versie 0.4]()
+  * [Versie 0.3]()
+  * [Versie 0.2]()
+  * [Versie 0.1]()
 * [Code for NL - Covid App Desin - Slack Kanaal]()
 
 ## Hoe kun je bijdragen?
