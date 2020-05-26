@@ -10,6 +10,7 @@ Mocht je een issue zien, of een idee hebben. Dan is het alvorens je hier direct 
 * [Product Definitie](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/product-definitie.md)
 * [Design Principes](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/design-principes.md)
 * [Job Stories](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/job-stories.md)
+* [Gebruikersonderzoek](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/gebruikersonderzoek.md)
 * Designs
   * [Laatste Versie 0.4](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) — Week 22
   * [Versie 0.3]() — Week 21
