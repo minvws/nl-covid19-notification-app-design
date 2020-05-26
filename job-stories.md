@@ -1,10 +1,8 @@
-# Job Stories
+# User Stories / Jobs to be Done
 
-* https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca
+Vanuit de GGD is een [Programma van Eisen](https://www.rijksoverheid.nl/onderwerpen/coronavirus-app/documenten/publicaties/2020/05/19/programma-van-eisen) opgesteld waaran de app moet voldoen. Daarnaast hebben wij zelf ook een lange lijst aan kort omschereven functionaliteiten gemaakt vanuit het perspectief van de mensen die de app uiteindelijk gaan gebruiken. Daarin denken wij aan wat ze zouden willen, wat het zou moeten kunnen.
 
 #### Todo: De volgende niet functionele eisen moeten nog verwerkt worden in job stories, of ter discussie gesteld worden.
-[Het Programma van Eisen, van de GGD](https://www.rijksoverheid.nl/onderwerpen/coronavirus-app/documenten/publicaties/2020/05/19/programma-van-eisen)
-
 - [ ] Q32. Alle in de app getoonde teksten hebben een bronvermelding en zijn vastgesteld door de genoemde bron.
 - [ ] Q33. Het is duidelijk voor de gebruiker dat de app een door de Nederlandse overheid aanbevolen, beheerde en goedgekeurde app is.
 - [ ] Q16. De app kan omgaan met en is beschikbaar in de voor de gebruikers belangrijkste talen.
