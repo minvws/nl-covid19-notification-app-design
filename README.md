@@ -11,10 +11,10 @@ Mocht je een issue zien, of een idee hebben. Dan is het alvorens je hier direct 
 * [Design Principes](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/design-principes.md)
 * [Job Stories](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/job-stories.md)
 * Designs
-  * [Laatste Versie 0.4](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only))
-  * [Versie 0.3]()
-  * [Versie 0.2]()
-  * [Versie 0.1]()
+  * [Laatste Versie 0.4](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) — Week 22
+  * [Versie 0.3]() — Week 21
+  * [Versie 0.2]() — Week 20
+  * [Versie 0.1](https://www.figma.com/file/wmShfQYISsfW9rle8plc5n/Contact-tracing---Public?node-id=1%3A18851) — [This Is What a Contact Tracing App Could Look Like](https://onezero.medium.com/openui-a6b9c3d741de)
 * [Code for NL - Covid App Desin - Slack Kanaal]()
 
 ## Hoe kun je bijdragen?
