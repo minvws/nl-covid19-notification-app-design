@@ -12,7 +12,7 @@ Mocht je een issue zien, of een idee hebben. Dan is het alvorens je hier direct 
 * [Design Principes](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/design-principes.md)
 * [Job Stories](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/job-stories.md)
 * [Gebruikersonderzoek](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/gebruikersonderzoek.md)
- * [Hoe gebruikers over de corona-app denken en waarom hun stem belangrijk is] (http://corona.sticktailapp.com/study-share/vvvH2cNcFQTC/verkennend-onderzoek-corona-apps-735/) - week 17
+ * [Hoe gebruikers over de corona-app denken en waarom hun stem belangrijk is](http://corona.sticktailapp.com/study-share/vvvH2cNcFQTC/verkennend-onderzoek-corona-apps-735/) - week 17
 * Designs
   * [Onboarding](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) — Week 22
   * [This Is What a Contact Tracing App Could Look Like](https://onezero.medium.com/openui-a6b9c3d741de)
