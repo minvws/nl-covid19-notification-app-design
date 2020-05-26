@@ -12,6 +12,7 @@ Mocht je een issue zien, of een idee hebben. Dan is het alvorens je hier direct 
 * [Design Principes](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/design-principes.md)
 * [Job Stories](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/job-stories.md)
 * [Gebruikersonderzoek](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/gebruikersonderzoek.md)
+  * [Analyse GGD-processen met onderzoeksvragen](https://miro.com/app/board/o9J_ks176Fk=/) - week 20
   * [0.1 Usability & Experience test van Corona referentie app](https://corona.sticktailapp.com/study-share/VJBHjC35hae9/usability-experience-test-van-corona-referentie-app-972/) - week 19
   * [Hoe gebruikers over de corona-app denken en waarom hun stem belangrijk is](http://corona.sticktailapp.com/study-share/vvvH2cNcFQTC/verkennend-onderzoek-corona-apps-735/) - week 17
 * Designs
