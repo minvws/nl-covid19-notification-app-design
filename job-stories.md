@@ -2,12 +2,6 @@
 
 Vanuit de GGD is een [Programma van Eisen](https://www.rijksoverheid.nl/onderwerpen/coronavirus-app/documenten/publicaties/2020/05/19/programma-van-eisen) opgesteld waaran de app moet voldoen. Daarnaast hebben wij zelf ook een lange lijst aan kort omschereven functionaliteiten gemaakt vanuit het perspectief van de mensen die de app uiteindelijk gaan gebruiken. Daarin denken wij aan wat ze zouden willen, wat het zou moeten kunnen.
 
-#### Todo: De volgende niet functionele eisen moeten nog verwerkt worden in job stories, of ter discussie gesteld worden.
-- [ ] Q32. Alle in de app getoonde teksten hebben een bronvermelding en zijn vastgesteld door de genoemde bron.
-- [ ] Q33. Het is duidelijk voor de gebruiker dat de app een door de Nederlandse overheid aanbevolen, beheerde en goedgekeurde app is.
-- [ ] Q16. De app kan omgaan met en is beschikbaar in de voor de gebruikers belangrijkste talen.
-- [ ] F17. De app biedt een lijst met veel gestelde vragen over gebruik van de app en antwoorden daarop met indien mogelijk een chatbot.
-- [ ] F18. De app kan de gebruiker bij vragen over het functioneren van de app doorverwijzen.
 
 |Context                                                                                |Motivatie                                                                                                                                                                  |Verwacht resultaat                                                                                              |Sectie/Feature                            |Versie           |verwijzing eis PVE|Owner|
 |---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|------------------------------------------|-----------------|------------------|-----|
@@ -43,3 +37,9 @@ Vanuit de GGD is een [Programma van Eisen](https://www.rijksoverheid.nl/onderwer
 |Voor downloaden                                                                        |wil ik weten waar ik de app kan vinden                                                                                                                                     |zodat ik 'm kan installeren                                                                                     |                                          |                 |                  |     |
 |OS niet up to date                                                                     |                                                                                                                                                                           |                                                                                                                |                                          |                 |                  |     |
 
+#### Todo: De volgende niet functionele eisen moeten nog verwerkt, of ter discussie gesteld worden.
+- [ ] Q32. Alle in de app getoonde teksten hebben een bronvermelding en zijn vastgesteld door de genoemde bron.
+- [ ] Q33. Het is duidelijk voor de gebruiker dat de app een door de Nederlandse overheid aanbevolen, beheerde en goedgekeurde app is.
+- [ ] Q16. De app kan omgaan met en is beschikbaar in de voor de gebruikers belangrijkste talen.
+- [ ] F17. De app biedt een lijst met veel gestelde vragen over gebruik van de app en antwoorden daarop met indien mogelijk een chatbot.
+- [ ] F18. De app kan de gebruiker bij vragen over het functioneren van de app doorverwijzen.
