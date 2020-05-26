@@ -2,6 +2,12 @@
 
 Hallo en welkom! Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19 notificatie app zo open en transparant te doen. Op deze pagina helpen we met uitleggen hoe jij kunt bijdragen, en houden we een actuele inventarisatie bij van alle documenten, design files, en andere informatie die van belang is om meet te kunnen kijken een feedback te geven.
 
+## Overzicht
+* [Product Definitie](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/produkt-definitie.md)
+* [Design Principes](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/design-principes.md)
+* [Laatste Figma Versie 0.4]()
+* [Code for NL, Covid App Desin Kanaal]()
+
 ## Hoe kun je bijdragen?
 
 ### Kijk mee met de laatste designs, en houd on scherp
