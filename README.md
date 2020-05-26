@@ -22,7 +22,7 @@ Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19 noti
 
 ## Hoe kun je bijdragen?
 
-1. Wordt lid van de [CodeForNL Slack](https://doemee.codefor.nl/) en ga naar het #minvws-design kanaal. 
+1. Word lid van de [CodeForNL Slack](https://doemee.codefor.nl/) en ga naar het #minvws-design kanaal. 
 2. Wanneer je actief wil bijdragen aan het ontwerp dan kun je toegang vragen tot onze gesloten Figma door [@jelleprins](https://www.twitter.com/jelleprins) een DM te sturen met je e-mail adres, en vervolgens in de Figma een eigen pagina aan te maken.
 3. Voor de teksten die hier op GitHub gepubliceerd zijn kan je suggesties doen.
 
