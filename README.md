@@ -1,28 +1,27 @@
 # Covid19 Notification App Design
 
-Hallo en welkom!
+Hallo en welkom! Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19 notificatie app zo open en transparant te doen. Op deze pagina helpen we met uitleggen hoe jij kunt bijdragen, en houden we een actuele inventarisatie bij van alle documenten, design files, en andere informatie die van belang is om meet te kunnen kijken een feedback te geven.
 
 ## Hoe kun je bijdragen?
 
-### Kijk mee en houd ons scherp!
+### Kijk mee met de laatste designs, en houd on scherp
 In deze Figma delen we de laatste stabiele versie van onze ontwerpen. We maken per onderdeel van de app duidelijk waar we nog aandacht aan moeten besteden, en wat al gedaan is.
 
 Draag bij door vragen te stellen en comments te plaatsen. Al je suggesties zijn welkom. En we doen onze uiterste best om alles te lezen, de goede suggesties mee te nemen en vragen te beantwoorden.
 
-- Voor feedback hebben we een mooie Slack channel aangemaakt bij onze vrienden van https://www.codefor.nl.
-- Voor het design gebruiken we https://www.figma.com/
-
-### Draag bij aan onze publieke challenges
-Soms weten wij het ook even niet, en vragen we een nog actievere bijdrage. We vertalen de ontwerp uitdagingen waar we dan voor staan naar challenges, waaraan jij in een publiek toegankelijke Figma file kan bijdragen. Ieder in z’n eigen page.
-
-## Versie beheer
-
-### Bekijk vooral de laatste versie
+#### Bekijk vooral de laatste versie
 Die vind je in het overzicht met Pages in de linkernavigatie. De page met het hoogste nummer is de huidige stabiele versie. Per versie is een changelog beschikbaar die laat zien wat we hebben aangepast sinds de vorige release.
 
-### Oude versies blijven behouden
+#### Oude versies blijven behouden
 In de oude gedeelde versies blijven alle daar geplaatste comments en antwoorden beschikbaar.
 
+### Praat en denk mee op ons Slack kanaal
+We hebben in samenwerking met https://www.codefor.nl zowel een technisch als een design slack kanaal. Vanuit het vaste design team zullen er mensen mee kijken, en waar mogelijk ook mee praten.
+
+#### Draag bij aan onze publieke challenges
+Soms weten wij het ook even niet, en vragen we een nog actievere bijdrage. We vertalen de ontwerp uitdagingen waar we dan voor staan naar challenges, waaraan jij in een publiek toegankelijke Figma file kan bijdragen. Ieder in z’n eigen page.
+
+---
 
 ## Licentie
 
