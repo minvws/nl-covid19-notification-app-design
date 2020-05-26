@@ -11,7 +11,7 @@ Mocht je een issue zien, of een idee hebben. Dan is het alvorens je hier direct 
 * [Design Principes](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/design-principes.md)
 * [Job Stories](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/job-stories.md)
 * Designs
-  * [Laatste Versie 0.4]()
+  * [Laatste Versie 0.4](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only))
   * [Versie 0.3]()
   * [Versie 0.2]()
   * [Versie 0.1]()
