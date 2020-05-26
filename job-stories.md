@@ -1,5 +1,6 @@
 # Job Stories
 
+* https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca
 * [Produkt Definitie](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/produkt-definitie.md)
 * [Het Programma van Eisen, van de GGD](https://www.rijksoverheid.nl/onderwerpen/coronavirus-app/documenten/publicaties/2020/05/19/programma-van-eisen)
 
