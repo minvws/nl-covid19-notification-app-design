@@ -7,7 +7,7 @@ Hallo en welkom! Onze intentie is om het ontwikkelen en ontwerpen van de Nederla
 Mocht je een issue zien, of een idee hebben. Dan is het alvorens je hier direct een issue aan maakt goed om ook even te kijken of daar wellicht al over gesproken wordt in ons Slack kanaal.
 
 ## Overzicht
-* [Programma van Eisen](https://www.rijksoverheid.nl/onderwerpen/coronavirus-app/documenten/publicaties/2020/05/19/programma-van-eisen)
+* [Programma van Eisen](https://www.rijksoverheid.nl/onderwerpen/coronavirus-app/documenten/publicaties/2020/05/19/programma-van-eisen) vanuit de Rijksoverheid
 * [Product Definitie](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/product-definitie.md)
 * [Design Principes](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/design-principes.md)
 * [Job Stories](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/job-stories.md)
