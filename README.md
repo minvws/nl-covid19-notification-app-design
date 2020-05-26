@@ -1,6 +1,6 @@
 # Covid19 Notification App Design
 
-Hallo en welkom! Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19 notificatie app zo open en transparant te doen. Op deze pagina helpen we met uitleggen hoe jij kunt bijdragen, en houden we een actuele inventarisatie bij van alle documenten, design files, en andere informatie die van belang is om meet te kunnen kijken een feedback te geven.
+Hallo en welkom! Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19 notificatie app zo open en transparant te doen. Op deze pagina helpen we met uitleggen hoe jij kunt bijdragen, en houden we een actuele inventarisatie bij van alle documenten, design files, en andere informatie die van belang is om mee te kunnen kijken een feedback te geven.
 
 **Neem de tijd om de onderstaande documenten te lezen en te overwegen alvorens in design files en slack kanalen te springen, of hier tickets en comments achter te laten. Er zijn een hoop genuanceerde overwegingen gemaakt om te komen waar we nu zijn.**
 
