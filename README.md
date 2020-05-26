@@ -13,6 +13,12 @@ Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19 noti
 * [Design Principes](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/design-principes.md)
 * [Job Stories](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/job-stories.md)
 * [Gebruikersonderzoek](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/gebruikersonderzoek.md)
+  * Inzichten meeloopdag GGD - week 21
+  * 0.3 Usability & Experience test design iteratie - week 21
+  * 0.2 Usability & Experience test design iteratie - week 20
+  * [Analyse GGD-processen met onderzoeksvragen](https://miro.com/app/board/o9J_ks176Fk=/) - week 20
+  * [0.1 Usability & Experience test van Corona referentie app](https://corona.sticktailapp.com/study-share/VJBHjC35hae9/usability-experience-test-van-corona-referentie-app-972/) - week 19
+  * [Hoe gebruikers over de corona-app denken en waarom hun stem belangrijk is](http://corona.sticktailapp.com/study-share/vvvH2cNcFQTC/verkennend-onderzoek-corona-apps-735/) - week 17
 * Designs
   * [Laatste Versie 0.4](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) — Week 22
   * Versie 0.3 — Week 21
