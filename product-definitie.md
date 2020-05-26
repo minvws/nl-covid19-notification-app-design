@@ -19,12 +19,12 @@ In de app worden geen persoonsgegevens opgeslagen. De app weet niets over de ide
 
 De app maakt geen gebruik van locatiegegevens en slaat deze ook niet op. Niet met GPS, niet op een andere manier. 
 
-De app kan nooit live zien of iemand besmet is met COVID-19. Dat is technisch onmogelijk. Het is dus geen COVID-radar die je in het dagelijks leven beschermt. De app helpt je om - als jij besmet raakt - die besmetting niet door te geven aan andere, kwetsbaardere mensen.
+De app kan nooit live zien of iemand besmet is met COVID-19. Dat is technisch onmogelijk. Het is dus geen COVID-radar die je in het dagelijks leven beschermt. De app helpt je om - als jij besmet raakt - die besmetting niet door te geven aan anderen.
 
 De app onthoudt niet of de eigenaar van de telefoon positief getest is of een blootstellingsmelding heeft ontvangen. De app kan dus niet als COVID-paspoort gebruikt worden. 
 
 De app is geen vervanging van het werk van de GGD. Het handmatige contactonderzoek blijft gewoon doorgaan. De app is daar vooral een snellere - maar minder precieze - aanvulling op.
 
-De app meet geen exacte afstanden. Hij weet dat je in de buurt van iemand bent geweest, en dat je daardoor mogelijk het risico loopt besmet te zijn geraakt. Maar hoe dichtbij je was, is niet te zeggen. Hoe groot het risico op besmetting was, dus ook niet.
+De app meet geen exacte afstanden. Hij weet dat je in de buurt van iemand bent geweest, en dat je daardoor mogelijk het risico loopt besmet te zijn geraakt. Maar hoe dichtbij je exact was, is niet te zeggen. 
 
 De ontmoetingen die via BLE zijn geregisteerd worden alleen op de telefoon van de app gebruiker bewaard, en niet op een centrale server opgeslagen.
