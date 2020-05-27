@@ -11,7 +11,7 @@ De app maakt gebruik van de Google/Apple Exposure Notification API. Die houdt vi
 
 De app waarschuwt de eigenaar als die in de afgelopen 14 dagen in de buurt is geweest van een app-gebruiker die in de dagen na die ontmoeting positief getest is op COVID-19 en tijdens de ontmoeting mogelijk al besmettelijk was.
 
-Via de app kan de eigenaar van de telefoon doorgeven dat hij of zij positief getest is op COVID-19. Dat kan alleen met een eenmalige bevestingscode van de GGD, om misbruik te voorkomen. Pas daarna worden andere app gebruikers die in de buurt zijn geweest gewaarschuwd.
+Via de app kan de eigenaar van de telefoon doorgeven dat hij of zij positief getest is op COVID-19. Dat kan alleen met een eenmalige bevestigingscode van de GGD, om misbruik te voorkomen. Pas daarna worden andere app gebruikers die in de buurt zijn geweest gewaarschuwd.
 
 ### Wat doet de app niet?
 
@@ -27,4 +27,4 @@ De app is geen vervanging van het werk van de GGD. Het handmatige contactonderzo
 
 De app meet geen exacte afstanden. Hij weet dat je in de buurt van iemand bent geweest, en dat je daardoor mogelijk het risico loopt besmet te zijn geraakt. Maar hoe dichtbij je exact was, is niet te zeggen. 
 
-De ontmoetingen die via BLE zijn geregisteerd worden alleen op de telefoon van de app gebruiker bewaard, en niet op een centrale server opgeslagen.
+De ontmoetingen die via BLE zijn geregistreerd worden alleen op de telefoon van de app gebruiker bewaard, en niet op een centrale server opgeslagen.
