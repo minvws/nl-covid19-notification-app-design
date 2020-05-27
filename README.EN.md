@@ -52,8 +52,14 @@ Soms weten wij het ook even niet, en vragen we een nog actievere bijdrage. We ve
 
 ---
 
-## Licentie
+## License
 
 De intellectuele eigendomsrechten op (een deel van) dit werk rusten bij de Staat der Nederlanden. De Staat behoudt zich het recht op dit (deel van het) werk voor.
 
 De Staat zal de ontwerpen en documentatie waar jij een bijdrage aan levert mogelijk gaan gebruiken en openbaar maken. Door het leveren van een bijdrage draag je het intellectueel eigendom en copyright over op de Staat en stem je ermee in dat mogelijk ook jouw bijdrage door de Staat der Nederlanden gebruikt en openbaar zal worden gemaakt.
+
+---
+
+NOTE: This README is also available [in English](README.EN.md). Thank you for understanding that the English version might not always be up-to-date with the Dutch one.
+
+NOTE: Deze README is ook beschikbaar [in het Engels](README.EN.md). Dank voor je begrip dat de Engelse versie niet altijd up-to-date is
