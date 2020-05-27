@@ -28,32 +28,38 @@ Our intention is make the development and design of the Dutch COVID19 notificati
 
 ## How can you contribute?
 
-1. Join the [CodeForNL Slack](https://doemee.codefor.nl/) and go to the `#notificatie-app-design` channel. 
+1. Join the [CodeForNL Slack](https://doemee.codefor.nl/) and go to the `#notificatie-app-design` channel. Although the primary language used on the channel is Dutch you should feel free to join the conversation in English.
 2. If you want to actively contribute to the design then you can request access to the private Figma by sending a DM to [@jelleprins](https://www.twitter.com/jelleprins) with your email address. Then you can create your own page within Figma.
 3. You can use GitHub to make suggestions or improvements to the contents of this repository.
 
+### Take a look at the latest designs
 
+The latest version of our designs is share in [this Figma](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)). Here you will see the status of each part of the design: which parts are finished and which parts still require some work.
 
+The page with the highest number is the stable version. For each version there is a changelog avaiable where we list the changes that have been made since the previous release.
 
-### Kijk mee met de laatste designs
-In [deze Figma](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) delen we de laatste versie van onze ontwerpen. We maken per onderdeel van de app duidelijk waar we nog aandacht aan moeten besteden, en wat al gedaan is.
+Comments and answers made in older shared versions will remain avaiable there.
 
-De page met het hoogste nummer is de huidige stabiele versie. Per versie is een changelog beschikbaar die laat zien wat we hebben aangepast sinds de vorige release.
+You can contribute by making questions and comments. All of your suggestions are welcome: we'll do our absolute best to read all of you suggestions, answer all of your questions and incorporate all of the good suggestions into the designs. However we cannot promise that all the suggestions will be incorporated.
 
-In de oude gedeelde versies blijven alle daar geplaatste comments en antwoorden beschikbaar.
+### Join the discussion on our Slack channel
 
-Draag bij door vragen te stellen en comments te plaatsen. Al je suggesties zijn welkom. En we doen onze uiterste best om alles te lezen, de goede suggesties mee te nemen en vragen te beantwoorden. We kunnen echter niet beloven dat we overal op in kunnen gaan.
+Questions or reactions via the Slack community of CodeForNL (`#notificatie-app-design` channel). Regsiter via https://doemee.codefor.nl/. Members of the design team follow the discussion and where possible also join in.
 
-### Praat en denk mee op ons Slack kanaal
-Vragen of reacties via de Slack community van CodeForNL (`#notificatie-app-design` kanaal). Meld je aan via https://doemee.codefor.nl/. Vanuit het vaste design team zullen er mensen mee kijken, en waar mogelijk ook mee praten.
+#### Contribute to our public challenges
 
-#### Draag bij aan onze publieke challenges
-Soms weten wij het ook even niet, en vragen we een nog actievere bijdrage. We vertalen de ontwerp uitdagingen waar we dan voor staan naar challenges, waaraan jij in een publiek toegankelijke Figma file kan bijdragen. Ieder in z’n eigen page. Vraag toegang aan door een Twitter DM te sturen naar [@jelleprins](https://www.twitter.com/jelleprins).
+Sometimes even we don't have all of the the answers so we look to you - the public - for help. We convert the design mountains into challenges which you can contribute to in our publically available Figma file. Everyone on their own page. Want to contribute? Then you can request access by sending a Twitter DM to [@jelleprins](https://www.twitter.com/jelleprins).
 
 ---
 
-## Licentie
+## License
 
 De intellectuele eigendomsrechten op (een deel van) dit werk rusten bij de Staat der Nederlanden. De Staat behoudt zich het recht op dit (deel van het) werk voor.
 
 De Staat zal de ontwerpen en documentatie waar jij een bijdrage aan levert mogelijk gaan gebruiken en openbaar maken. Door het leveren van een bijdrage draag je het intellectueel eigendom en copyright over op de Staat en stem je ermee in dat mogelijk ook jouw bijdrage door de Staat der Nederlanden gebruikt en openbaar zal worden gemaakt.
+
+---
+
+NOTE: This README is also available [in English](README.EN.md). Thank you for understanding that the English version might not always be up-to-date with the Dutch one.
+
+NOTE: Deze README is ook beschikbaar [in het Engels](README.EN.md). Dank voor je begrip dat de Engelse versie niet altijd up-to-date is
