@@ -1,6 +1,6 @@
 ### De app is ontworpen voor een breed publiek met een grote variëteit in demografische achtergronden en beperkingen (inclusiviteit).
 
-Om tot een hoge adoptie te komen, ontwerpen we een app die voor een zo'n groot mogelijk deel van de bevolking te gebruiken is. Toegankelijkheid, begrijpbaarheid en gebruiksgemak gaan boven esthetiek. We houden rekening met mensen met een beperkte technische kennis, laaggeletterdheid en verschillende sensorische en motorische beperkingen. Het ontwerp voldoet aan WCAG2.1 A en AA.
+Om tot een hoge adoptie te komen, ontwerpen we een app die voor een zo'n groot mogelijk deel van de bevolking te gebruiken is. Toegankelijkheid, begrijpbaarheid en gebruiksgemak gaan boven esthetiek. We houden rekening met mensen met een beperkte technische kennis, laaggeletterdheid en verschillende sensorische en motorische beperkingen. Het ontwerp voldoet aan WCAG2.1 AA.
 
 ### De app legt uit hoe digitale contactopsporing werkt, en stelt gebruikers gerust over data privacy en veiligheid.
 
