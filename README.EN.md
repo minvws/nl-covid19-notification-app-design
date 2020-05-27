@@ -28,7 +28,7 @@ Our intention is make the development and design of the Dutch COVID19 notificati
 
 ## How can you contribute?
 
-1. Join the [CodeForNL Slack](https://doemee.codefor.nl/) and go to the `#notificatie-app-design` channel. 
+1. Join the [CodeForNL Slack](https://doemee.codefor.nl/) and go to the `#notificatie-app-design` channel. Although the primary language used on the channel is Dutch you should feel free to join the conversation in English.
 2. If you want to actively contribute to the design then you can request access to the private Figma by sending a DM to [@jelleprins](https://www.twitter.com/jelleprins) with your email address. Then you can create your own page within Figma.
 3. You can use GitHub to make suggestions or improvements to the contents of this repository.
 
