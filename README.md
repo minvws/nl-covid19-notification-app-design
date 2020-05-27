@@ -42,7 +42,7 @@ In de oude gedeelde versies blijven alle daar geplaatste comments en antwoorden 
 Draag bij door vragen te stellen en comments te plaatsen. Al je suggesties zijn welkom. En we doen onze uiterste best om alles te lezen, de goede suggesties mee te nemen en vragen te beantwoorden. We kunnen echter niet beloven dat we overal op in kunnen gaan.
 
 ### Praat en denk mee op ons Slack kanaal
-Vragen of reacties via de Slack community van CodeForNL (`#minvws-design` kanaal). Meld je aan via https://doemee.codefor.nl/ Vanuit het vaste design team zullen er mensen mee kijken, en waar mogelijk ook mee praten.
+Vragen of reacties via de Slack community van CodeForNL (`#minvws-design` kanaal). Meld je aan via https://doemee.codefor.nl/. Vanuit het vaste design team zullen er mensen mee kijken, en waar mogelijk ook mee praten.
 
 #### Draag bij aan onze publieke challenges
 Soms weten wij het ook even niet, en vragen we een nog actievere bijdrage. We vertalen de ontwerp uitdagingen waar we dan voor staan naar challenges, waaraan jij in een publiek toegankelijke Figma file kan bijdragen. Ieder in z’n eigen page. Vraag toegang aan door een Twitter DM te sturen naar [@jelleprins](https://www.twitter.com/jelleprins).
