@@ -1,6 +1,6 @@
 # Covid19 Notification App Design
 
-Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19 notificatie app zo open en transparant mogelijk te doen. We zullen zoveel mogelijk en zo vroeg mogelijk de ontwerpen en bijbehorende documentatie hier delen zodat ieder feedback kan leveren en kan bijdragen. 
+Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19 notificatie app zo open en transparant mogelijk te doen. We zullen zoveel mogelijk en zo vroeg mogelijk de ontwerpen en bijbehorende documentatie hier delen zodat een ieder feedback kan leveren en kan bijdragen.
 
 ## Belangrijk:
 * **Dit is geen simpel project. Neem alsjeblieft de tijd om de gedeelde documenten en ontwerpen goed door te nemen alvorens je vragen stelt.**
@@ -54,5 +54,3 @@ Soms weten wij het ook even niet, en vragen we een nog actievere bijdrage. We ve
 De intellectuele eigendomsrechten op (een deel van) dit werk rusten bij de Staat der Nederlanden. De Staat behoudt zich het recht op dit (deel van het) werk voor.
 
 De Staat zal de ontwerpen en documentatie waar jij een bijdrage aan levert mogelijk gaan gebruiken en openbaar maken. Door het leveren van een bijdrage draag je het intellectueel eigendom en copyright over op de Staat en stem je ermee in dat mogelijk ook jouw bijdrage door de Staat der Nederlanden gebruikt en openbaar zal worden gemaakt.
-
-
