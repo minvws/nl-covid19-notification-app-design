@@ -4,9 +4,9 @@
 Our intention is make the development and design of the Dutch COVID19 notification application as open and transparent as possible. We will share the designs and related documentation here as early and often as possible so that everyone has the chance to leave feedback and support the project.
 
 ## Important:
-* **This it not a simple project. Please take the time to read the documentation properly before you ask a question **
+* **This it not a simple project. Please take the time to read the documentation properly before asking a question.**
 * **We are now sharing designs early in the process. Please bear in mind that they are not the final designs: there will be changes made to the visual styles, copy, etc..**
-* **We will do our upmost best to read all of the comments and suggestions. However we may not be able to reply to all of them. **
+* **We will do our upmost best to read all of the comments and suggestions. However we may not be able to reply to all of them.**
 
 ## Overview
 * [Requirements (Dutch)](https://www.rijksoverheid.nl/onderwerpen/coronavirus-app/documenten/publicaties/2020/05/19/programma-van-eisen)
@@ -29,7 +29,6 @@ Our intention is make the development and design of the Dutch COVID19 notificati
 ## How can you contribute?
 
 1. Join the [CodeForNL Slack](https://doemee.codefor.nl/) and go to the `#notificatie-app-design` channel. 
-2. Wanneer je actief wil bijdragen aan het ontwerp dan kun je toegang vragen tot onze gesloten Figma door [@jelleprins](https://www.twitter.com/jelleprins) een DM te sturen met je e-mail adres, en vervolgens in de Figma een eigen pagina aan te maken.
 2. If you want to actively contribute to the design then you can request access to the private Figma by sending a DM to [@jelleprins](https://www.twitter.com/jelleprins) with your email address. Then you can create your own page within Figma.
 3. You can use GitHub to make suggestions or improvements to the contents of this repository.
 
