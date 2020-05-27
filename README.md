@@ -1,6 +1,6 @@
 # Covid19 Notification App Design
 
-Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19 notificatie app zo open en transparant mogelijk te doen. We zullen zoveel mogelijk en zo vroeg mogelijk de ontwerpen en bijbehorende documentatie hier delen zodat een ieder feedback kan leveren en kan bijdragen.
+Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19-notificatie-app zo open en transparant mogelijk te doen. We zullen zoveel mogelijk en zo vroeg mogelijk de ontwerpen en bijbehorende documentatie hier delen zodat een ieder feedback kan leveren en kan bijdragen.
 
 ## Belangrijk:
 * **Dit is geen simpel project. Neem alsjeblieft de tijd om de gedeelde documenten en ontwerpen goed door te nemen alvorens je vragen stelt.**
@@ -45,7 +45,7 @@ Draag bij door vragen te stellen en comments te plaatsen. Al je suggesties zijn 
 Vragen of reacties via de Slack community van CodeForNL (`#notificatie-app-design` kanaal). Meld je aan via https://doemee.codefor.nl/. Vanuit het vaste design team zullen er mensen mee kijken, en waar mogelijk ook mee praten.
 
 #### Draag bij aan onze publieke challenges
-Soms weten wij het ook even niet, en vragen we een nog actievere bijdrage. We vertalen de ontwerp uitdagingen waar we dan voor staan naar challenges, waaraan jij in een publiek toegankelijke Figma file kan bijdragen. Ieder in z’n eigen page. Vraag toegang aan door een Twitter DM te sturen naar [@jelleprins](https://www.twitter.com/jelleprins).
+Soms weten wij het ook even niet, en vragen we een nog actievere bijdrage. We vertalen de ontwerpuitdagingen waar we dan voor staan naar challenges, waaraan jij in een publiek toegankelijke Figma file kan bijdragen. Ieder in z’n eigen page. Vraag toegang aan door een Twitter DM te sturen naar [@jelleprins](https://www.twitter.com/jelleprins).
 
 ---
 
