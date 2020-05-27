@@ -54,3 +54,5 @@ Soms weten wij het ook even niet, en vragen we een nog actievere bijdrage. We ve
 De intellectuele eigendomsrechten op (een deel van) dit werk rusten bij de Staat der Nederlanden. De Staat behoudt zich het recht op dit (deel van het) werk voor.
 
 De Staat zal de ontwerpen en documentatie waar jij een bijdrage aan levert mogelijk gaan gebruiken en openbaar maken. Door het leveren van een bijdrage draag je het intellectueel eigendom en copyright over op de Staat en stem je ermee in dat mogelijk ook jouw bijdrage door de Staat der Nederlanden gebruikt en openbaar zal worden gemaakt.
+
+Om alle licentie en auteursrechtelijke details af te handelen is het van belang om, zodra je een bijdrage wil doen, je onze [Contributor License Agreement](https://cla-assistant.io/minvws/nl-covid19-notification-app-design) leest en accepteert.
