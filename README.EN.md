@@ -42,11 +42,13 @@ Comments and answers made in older shared versions will remain avaiable there.
 
 You can contribute by making questions and comments. All of your suggestions are welcome: we'll do our absolute best to read all of you suggestions, answer all of your questions and incorporate all of the good suggestions into the designs. However we cannot promise that all the suggestions will be incorporated.
 
-### Praat en denk mee op ons Slack kanaal
-Vragen of reacties via de Slack community van CodeForNL (`#notificatie-app-design` kanaal). Meld je aan via https://doemee.codefor.nl/. Vanuit het vaste design team zullen er mensen mee kijken, en waar mogelijk ook mee praten.
+### Join the discussion on our Slack channel
 
-#### Draag bij aan onze publieke challenges
-Soms weten wij het ook even niet, en vragen we een nog actievere bijdrage. We vertalen de ontwerp uitdagingen waar we dan voor staan naar challenges, waaraan jij in een publiek toegankelijke Figma file kan bijdragen. Ieder in z’n eigen page. Vraag toegang aan door een Twitter DM te sturen naar [@jelleprins](https://www.twitter.com/jelleprins).
+Questions or reactions via the Slack community of CodeForNL (`#notificatie-app-design` channel). Regsiter via https://doemee.codefor.nl/. Members of the design team follow the discussion and where possible also join in.
+
+#### Contribute to our public challenges
+
+Sometimes even we don't have all of the the answers so we look to you - the public - for help. We convert the design mountains into challenges which you can contribute to in our publically available Figma file. Everyone on their own page. Want to contribute? Then you can request access by sending a Twitter DM to [@jelleprins](https://www.twitter.com/jelleprins).
 
 ---
 
