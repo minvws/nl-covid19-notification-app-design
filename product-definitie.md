@@ -7,7 +7,7 @@ In aanvulling op het **analoge contactonderzoek**, bieden wij **de mogelijkheid 
 
 ### Wat doet de app?
 
-De app maakt gebruik van de Google/Apple Exposure Notification API. Die houdt via Bluetooth Low Energy bij welke andere telefoons bij jou in de nabijheid zijn. Dat gebeurt anoniem en veilig.
+De app maakt gebruik van de [Google](https://www.google.com/covid19/exposurenotifications/)/[Apple](https://www.apple.com/covid19/contacttracing) Exposure Notification API. Die houdt via Bluetooth Low Energy bij welke andere telefoons bij jou in de nabijheid zijn. Dat gebeurt anoniem en veilig.
 
 De app waarschuwt de eigenaar als die in de afgelopen 14 dagen in de buurt is geweest van een app-gebruiker die in de dagen na die ontmoeting positief getest is op COVID-19 en tijdens de ontmoeting mogelijk al besmettelijk was.
 
