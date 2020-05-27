@@ -32,17 +32,15 @@ Our intention is make the development and design of the Dutch COVID19 notificati
 2. If you want to actively contribute to the design then you can request access to the private Figma by sending a DM to [@jelleprins](https://www.twitter.com/jelleprins) with your email address. Then you can create your own page within Figma.
 3. You can use GitHub to make suggestions or improvements to the contents of this repository.
 
+### Take a look at the latest designs
 
+The latest version of our designs is share in [this Figma](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)). Here you will see the status of each part of the design: which parts are finished and which parts still require some work.
 
+The page with the highest number is the stable version. For each version there is a changelog avaiable where we list the changes that have been made since the previous release.
 
-### Kijk mee met de laatste designs
-In [deze Figma](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) delen we de laatste versie van onze ontwerpen. We maken per onderdeel van de app duidelijk waar we nog aandacht aan moeten besteden, en wat al gedaan is.
+Comments and answers made in older shared versions will remain avaiable there.
 
-De page met het hoogste nummer is de huidige stabiele versie. Per versie is een changelog beschikbaar die laat zien wat we hebben aangepast sinds de vorige release.
-
-In de oude gedeelde versies blijven alle daar geplaatste comments en antwoorden beschikbaar.
-
-Draag bij door vragen te stellen en comments te plaatsen. Al je suggesties zijn welkom. En we doen onze uiterste best om alles te lezen, de goede suggesties mee te nemen en vragen te beantwoorden. We kunnen echter niet beloven dat we overal op in kunnen gaan.
+You can contribute by making questions and comments. All of your suggestions are welcome: we'll do our absolute best to read all of you suggestions, answer all of your questions and incorporate all of the good suggestions into the designs. However we cannot promise that all the suggestions will be incorporated.
 
 ### Praat en denk mee op ons Slack kanaal
 Vragen of reacties via de Slack community van CodeForNL (`#notificatie-app-design` kanaal). Meld je aan via https://doemee.codefor.nl/. Vanuit het vaste design team zullen er mensen mee kijken, en waar mogelijk ook mee praten.
