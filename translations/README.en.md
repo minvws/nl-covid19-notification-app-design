@@ -60,6 +60,6 @@ The Kingdom of the Netherlands may use and publish the designs and documentation
 
 ---
 
-NOTE: This README is also available [in English](README.EN.md). Thank you for understanding that the English version might not always be up-to-date with the Dutch one.
+NOTE: This README is also available [in Dutch](../README.md). The Dutch language version is leading.
 
-NOTE: Deze README is ook beschikbaar [in het Engels](README.EN.md). Dank voor je begrip dat de Engelse versie niet altijd up-to-date is
+NOTE: Deze README is ook beschikbaar [in het Nederlands](../README.md). De nederlandstalig versie is leidend.
