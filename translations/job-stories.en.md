@@ -50,3 +50,7 @@ The GGD (Area Health Authority) have published the [Schedule of Requirements (Pv
 - [ ] Q16. The app is available and usable in the user's language of choice.
 - [ ] F17. The app offers a list of frequently asked questions over the app itself, and if possible a chatbot.
 - [ ] F18. If the user has questions about the functioning of the app these can be forwarded by the app
+
+NOTE: This document is also available [in Dutch](../job-stories.md). The Dutch language version is leading.
+
+NOTE: Deze document is ook beschikbaar [in het Nederlands](../job-stories.md). De nederlandstalig versie is leidend.
