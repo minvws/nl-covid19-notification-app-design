@@ -1,6 +1,6 @@
 # Covid19 Notification App Design
 
-Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19 notificatie app zo open en transparant mogelijk te doen. We zullen zoveel mogelijk en zo vroeg mogelijk de ontwerpen en bijbehorende documentatie hier delen zodat een ieder feedback kan leveren en kan bijdragen.
+Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19-notificatie-app zo open en transparant mogelijk te doen. We zullen zoveel mogelijk en zo vroeg mogelijk de ontwerpen en bijbehorende documentatie hier delen zodat een ieder feedback kan leveren en kan bijdragen.
 
 ## Belangrijk:
 * **Dit is geen simpel project. Neem alsjeblieft de tijd om de gedeelde documenten en ontwerpen goed door te nemen alvorens je vragen stelt.**
@@ -28,7 +28,7 @@ Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19 noti
 
 ## Hoe kun je bijdragen?
 
-1. Word lid van de [CodeForNL Slack](https://doemee.codefor.nl/) en ga naar het `#notificatie-app-design` kanaal. 
+1. Word lid van de [CodeForNL Slack](https://doemee.codefor.nl/) en ga naar het [`#notificatie-app-design` kanaal](https://codefornl.slack.com/messages/notificatie-app-design) kanaal. 
 2. Wanneer je actief wil bijdragen aan het ontwerp dan kun je toegang vragen tot onze gesloten Figma door [@jelleprins](https://www.twitter.com/jelleprins) een DM te sturen met je e-mail adres, en vervolgens in de Figma een eigen pagina aan te maken.
 3. Voor de teksten die hier op GitHub gepubliceerd zijn kan je via GitHub suggesties doen.
 
@@ -42,10 +42,10 @@ In de oude gedeelde versies blijven alle daar geplaatste comments en antwoorden 
 Draag bij door vragen te stellen en comments te plaatsen. Al je suggesties zijn welkom. En we doen onze uiterste best om alles te lezen, de goede suggesties mee te nemen en vragen te beantwoorden. We kunnen echter niet beloven dat we overal op in kunnen gaan.
 
 ### Praat en denk mee op ons Slack kanaal
-Vragen of reacties via de Slack community van CodeForNL (`#notificatie-app-design` kanaal). Meld je aan via https://doemee.codefor.nl/. Vanuit het vaste design team zullen er mensen mee kijken, en waar mogelijk ook mee praten.
+Vragen of reacties via de Slack community van CodeForNL [`#notificatie-app-design` kanaal](https://codefornl.slack.com/messages/notificatie-app-design). Meld je aan via https://doemee.codefor.nl/. Vanuit het vaste design team zullen er mensen mee kijken, en waar mogelijk ook mee praten.
 
 #### Draag bij aan onze publieke challenges
-Soms weten wij het ook even niet, en vragen we een nog actievere bijdrage. We vertalen de ontwerp uitdagingen waar we dan voor staan naar challenges, waaraan jij in een publiek toegankelijke Figma file kan bijdragen. Ieder in z’n eigen page. Vraag toegang aan door een Twitter DM te sturen naar [@jelleprins](https://www.twitter.com/jelleprins).
+Soms weten wij het ook even niet, en vragen we een nog actievere bijdrage. We vertalen de ontwerpuitdagingen waar we dan voor staan naar challenges, waaraan jij in een publiek toegankelijke Figma file kan bijdragen. Ieder in z’n eigen page. Vraag toegang aan door een Twitter DM te sturen naar [@jelleprins](https://www.twitter.com/jelleprins).
 
 ---
 
@@ -54,6 +54,8 @@ Soms weten wij het ook even niet, en vragen we een nog actievere bijdrage. We ve
 De intellectuele eigendomsrechten op (een deel van) dit werk rusten bij de Staat der Nederlanden. De Staat behoudt zich het recht op dit (deel van het) werk voor.
 
 De Staat zal de ontwerpen en documentatie waar jij een bijdrage aan levert mogelijk gaan gebruiken en openbaar maken. Door het leveren van een bijdrage draag je het intellectueel eigendom en copyright over op de Staat en stem je ermee in dat mogelijk ook jouw bijdrage door de Staat der Nederlanden gebruikt en openbaar zal worden gemaakt.
+
+Om alle licentie en auteursrechtelijke details af te handelen is het van belang dat je, zodra je een bijdrage wilt doen, onze [Contributor License Agreement](https://cla-assistant.io/minvws/nl-covid19-notification-app-design) leest en accepteert.
 
 ---
 
