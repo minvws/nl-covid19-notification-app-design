@@ -62,7 +62,7 @@ We do this by:
 
 - Testing what has been thought up with people every week (usability research)
 - Testing for maximum accessibility for everyone who wants to use the app (accessibility research)
-- Walking with the GGD on the workfloor (observation and interviews)
+- Walking with the GGD in the workplace (observation and interviews)
 - Interviewing the people who have had the coronavirus before and their contacts (interviews)
 - To work together with the Taskforce Behavioral Sciences from RIVM (National Institute for Public Health and the Environment)
 - To discuss openly and together research questions and insights with the community
