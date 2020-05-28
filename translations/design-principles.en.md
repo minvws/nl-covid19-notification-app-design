@@ -18,6 +18,6 @@ The application will be installed on a very wide range of mobile phones, includi
 
 Speed matters. In the design we use standard platform components for the user interface, so that it can be built quickly and efficiently. And developers can put their limited time and energy into the relatively complex underlying systems.
 
-NOTE: This document is also available [in Dutch](../design-principles.md). The Dutch language version is leading.
+NOTE: This document is also available [in Dutch](../design-principes.md). The Dutch language version is leading.
 
-NOTE: Deze document is ook beschikbaar [in het Nederlands](../design-principles.md). De nederlandstalig versie is leidend.
+NOTE: Deze document is ook beschikbaar [in het Nederlands](../design-principes.md). De nederlandstalig versie is leidend.
