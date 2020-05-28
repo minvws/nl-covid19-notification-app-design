@@ -10,10 +10,10 @@ Our intention is make the development and design of the Dutch COVID19 notificati
 
 ## Overview
 * [Requirements (Dutch)](https://www.rijksoverheid.nl/onderwerpen/coronavirus-app/documenten/publicaties/2020/05/19/programma-van-eisen)
-* [Product Definition (Dutch)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/product-definitie.md)
-* [Design Principles (Dutch)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/design-principes.md)
-* [Job Stories](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/job-stories.md)
-* [User research (Dutch)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/gebruikersonderzoek.md)
+* [Product Definition (English)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/product-definition.md)
+* [Design Principles (English)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/design-principles.md)
+* [Job Stories (English)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/job-stories.md)
+* [Usability research (English)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/usability-research.md)
   * Inzichten meeloopdag GGD - week 21
   * 0.3 Usability & Experience test design iteratie - week 21
   * 0.2 Usability & Experience test design iteratie - week 20
@@ -21,10 +21,10 @@ Our intention is make the development and design of the Dutch COVID19 notificati
   * [0.1 Usability & Experience test van Corona referentie app](https://corona.sticktailapp.com/study-share/VJBHjC35hae9/usability-experience-test-van-corona-referentie-app-972/) - week 19
   * [Hoe gebruikers over de corona-app denken en waarom hun stem belangrijk is](http://corona.sticktailapp.com/study-share/vvvH2cNcFQTC/verkennend-onderzoek-corona-apps-735/) - week 17
 * Designs
-  * [Laatste Versie 0.4](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) — Week 22
-  * Versie 0.3 — Week 21
-  * Versie 0.2 — Week 20
-  * [Versie 0.1](https://www.figma.com/file/wmShfQYISsfW9rle8plc5n/Contact-tracing---Public?node-id=1%3A18851) — [This Is What a Contact Tracing App Could Look Like](https://onezero.medium.com/openui-a6b9c3d741de)
+  * [Latest Version 0.4](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) — Week 22
+  * Version 0.3 — Week 21
+  * Version 0.2 — Week 20
+  * [Version 0.1](https://www.figma.com/file/wmShfQYISsfW9rle8plc5n/Contact-tracing---Public?node-id=1%3A18851) — [This Is What a Contact Tracing App Could Look Like](https://onezero.medium.com/openui-a6b9c3d741de)
 
 ## How can you contribute?
 
