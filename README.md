@@ -59,6 +59,5 @@ Om alle licentie en auteursrechtelijke details af te handelen is het van belang 
 
 ---
 
-NOTE: This README is also available [in English](README.EN.md). Thank you for understanding that the English version might not always be up-to-date with the Dutch one.
-
-NOTE: Deze README is ook beschikbaar [in het Engels](README.EN.md). Dank voor je begrip dat de Engelse versie niet altijd up-to-date is
+NOTE: This README is also available [in English](translations/README.en.md). Thank you for understanding that the English version might not always be up-to-date with the Dutch one.
+NOTE: Deze README is ook beschikbaar [in het Engels](translations/README.en.md). Dank voor je begrip dat de Engelse versie niet altijd up-to-date is
