@@ -14,9 +14,6 @@ telephones which have been in close contact with yours. This happens securely an
 The app warns the owner if they, in the previous 14 days, been in contact with another app-user who has tested
 positive for COVID-19 and who was contagious at the time of contact.
 
-De app waarschuwt de eigenaar als die in de afgelopen 14 dagen in de buurt is geweest van een app-gebruiker
-die in de dagen na die ontmoeting positief getest is op COVID-19 en tijdens de ontmoeting mogelijk al besmettelijk was.
-
 Upon testing positive for COVID-19 the user can report themselves as COVID-19 positive via the app. To avoid potential misuse
 a one-time confirmation code issued by the GGD is required to make the report. Only after a positive report is made will users
 who have been in contact with the infected user be warned.
@@ -24,12 +21,9 @@ who have been in contact with the infected user be warned.
 ### What does the app not do?
 
 No personal data is saved in the app. The app knows nothing about the identity of the owner or of the phone.
-In de app worden geen persoonsgegevens opgeslagen. De app weet niets over de identiteit van de eigenaar
-van de telefoon.  
 
 The app makes no use of location data and does not store this information. It make no use of GPS or any
 other methods of determining the location.
-De app maakt geen gebruik van locatiegegevens en slaat deze ook niet op. Niet met GPS, niet op een andere manier.
 
 The app cannot determine if someone is infected with COVID-19. That is not technically possible. It is therefore
 not a "COVID-radar" which protects you in your daily life. The app helps you - if you become infected - to avoid
