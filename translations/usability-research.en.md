@@ -44,3 +44,7 @@ We do this by:
 - To work together with the Taskforce Behavioral Sciences from RIVM (National Institute for Public Health and the Environment)
 - To share research questions and insights with the community and discuss them openly.
 - Test public beta versions of the app with a wide audience
+
+NOTE: This document is also available [in Dutch](../gebruikersonderzoek.md). The Dutch language version is leading.
+
+NOTE: Deze document is ook beschikbaar [in het Nederlands](../gebruikersonderzoek.md). De nederlandstalig versie is leidend.
