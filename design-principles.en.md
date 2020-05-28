@@ -4,7 +4,7 @@ In order to achieve a high adoption rate, we are designing an app that can be us
 
 ### The app explains how digital contact tracing works, and reassures users about data privacy and security.
 
-The app is clear about which techniques are used, which information is collected, how the information is used and with whom the information is shared. The app removes misunderstandings and ensures that user can make an informed decision about whether to install and use it or not. If someone chooses not to use the app then this will be their informed decision.
+The app is clear about which techniques are used, which information is collected, how the information is used and with whom the information is shared. The app removes misunderstandings and ensures that users can make an informed decision about whether to install and use it or not. If someone chooses not to use the app then this will be their informed decision.
 
 ### The app is honest about the limitations of the technology and the perspectives for action are proportionate to that.
 

@@ -36,15 +36,15 @@ Our intention is make the development and design of the Dutch COVID19 notificati
 
 The latest version of our designs is share in [this Figma](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)). Here you will see the status of each part of the design: which parts are finished and which parts still require some work.
 
-The page with the highest number is the stable version. For each version there is a changelog avaiable where we list the changes that have been made since the previous release.
+The page with the highest number is the stable version. For each version there is a changelog available where we list the changes that have been made since the previous release.
 
-Comments and answers made in older shared versions will remain avaiable there.
+Comments and answers made in older shared versions will remain available there.
 
 You can contribute by making questions and comments. All of your suggestions are welcome: we'll do our absolute best to read all of you suggestions, answer all of your questions and incorporate all of the good suggestions into the designs. However we cannot promise that all the suggestions will be incorporated.
 
 ### Join the discussion on our Slack channel
 
-Questions or reactions via the Slack community of CodeForNL (`#notificatie-app-design` channel). Regsiter via https://doemee.codefor.nl/. Members of the design team follow the discussion and where possible also join in.
+Questions or reactions via the Slack community of CodeForNL (`#notificatie-app-design` channel). Register via https://doemee.codefor.nl/. Members of the design team follow the discussion and where possible also join in.
 
 #### Contribute to our public challenges
 
@@ -52,11 +52,11 @@ Sometimes even we don't have all of the the answers so we look to you - the publ
 
 ---
 
-## License
+## License (this translation is provisional and still under review)
 
-De intellectuele eigendomsrechten op (een deel van) dit werk rusten bij de Staat der Nederlanden. De Staat behoudt zich het recht op dit (deel van het) werk voor.
+The intellectual property rights to (part of) this work rest with the Kingdom of the Netherlands. The Kingdom of the Netherlands reserves the right to this (part of the) work.
 
-De Staat zal de ontwerpen en documentatie waar jij een bijdrage aan levert mogelijk gaan gebruiken en openbaar maken. Door het leveren van een bijdrage draag je het intellectueel eigendom en copyright over op de Staat en stem je ermee in dat mogelijk ook jouw bijdrage door de Staat der Nederlanden gebruikt en openbaar zal worden gemaakt.
+The Kingdom of the Netherlands may use and publish the designs and documentation to which you contribute. By making a contribution, you transfer the intellectual property and copyright to the Kingdom of the Netherlands and agree that your contribution may also be used and made public by the Kingdom of the Netherlands.
 
 ---
 
