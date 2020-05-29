@@ -60,6 +60,6 @@ The Kingdom of the Netherlands may use and publish the designs and documentation
 
 ---
 
-NOTE: This README is also available [in Dutch](../README.md). The Dutch language version is leading.
+NOTE: This README is also available [in Dutch](../../README.md). The Dutch language version is leading.
 
-NOTE: Deze README is ook beschikbaar [in het Nederlands](../README.md). De nederlandstalig versie is leidend.
+NOTE: Deze README is ook beschikbaar [in het Nederlands](../../README.md). De nederlandstalig versie is leidend.
