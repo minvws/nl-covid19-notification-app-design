@@ -39,6 +39,6 @@ have been at risk of being infected. However it is not possible to determine exa
 
 The encounters which are registered with Bluetooth Low Energy are only stored on and never leave the user's telephone. They are therefore not stored on any central server(s).
 
-NOTE: This document is also available [in Dutch](../product-definitie.md). The Dutch language version is leading.
+NOTE: This document is also available [in Dutch](../../product-definitie.md). The Dutch language version is leading.
 
-NOTE: Deze document is ook beschikbaar [in het Nederlands](../product-definitie.md). De nederlandstalig versie is leidend.
+NOTE: Deze document is ook beschikbaar [in het Nederlands](../../product-definitie.md). De nederlandstalig versie is leidend.
