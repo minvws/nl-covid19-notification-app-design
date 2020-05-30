@@ -61,7 +61,7 @@ Das Königreich der Niederlande kann die Entwürfe und Dokumentationen, zu denen
 
 ---
 
-HINWEIS: Diese README-Datei ist auch [auf Niederländisch] verfügbar (../ README.md). Die niederländische Sprachversion ist führend.
+HINWEIS: Diese README-Datei ist auch [auf Niederländisch] verfügbar (/translations/de-DE/README.md). Die niederländische Sprachversion ist führend.
 
-NOTE: Deze README is ook beschikbaar [in het Nederlands](../README.md). De nederlandstalig versie is leidend.
+NOTE: Deze README is ook beschikbaar [in het Nederlands](/translations/de-DE/README.md). De nederlandstalig versie is leidend.
 
