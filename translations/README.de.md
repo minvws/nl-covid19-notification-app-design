@@ -6,16 +6,16 @@ Wir beabsichtigen, die Entwicklung und Gestaltung des niederländischen COVID19-
 
 ## Wichtige Hinweise:
 * **Dieses Projekt ist kein einfaches. Bitte nehmen Sie sich die Zeit, die Dokumentation richtig zu lesen, bevor Sie eine Frage stellen.**
-* **Bitte beachten Sie, dass es sich nicht um die endgültigen Entwürfe handelt: Es werden Änderungen an den visuellen Stilen, Kopien usw. vorgenommen.
+* **Bitte beachten Sie, dass es sich nicht um die endgültigen Entwürfe handelt: Es werden Änderungen an den visuellen Stilen, Kopien usw. vorgenommen.**
 * **Wir werden unser Bestes tun, um alle Kommentare und Vorschläge zu lesen. Möglicherweise können wir jedoch nicht auf alle direkt antworten.**
 
 ## Überblick
 * [Bedarfsanforderungen (Niederländisch)](https://www.rijksoverheid.nl/onderwerpen/coronavirus-app/documenten/publicaties/2020/05/19/programma-van-eisen)
 * [Produktdefinition (Englisch)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/product-definition.md)
-* [Design-Prinzipien (Englisch)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/design-principles.md)
+* [Design-Prinzipien (Englisch)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/product-definition.en.md)
 * [User Stories (Englisch)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/job-stories.md)
 * [Usability-Analyse (Englisch)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/usability-research.md)
-  * GGD-Follow-up-Tag - Kalenderwoche 20
+  * GGD-Follow-up-Tag - Kalenderwoche 20 (GGD - Gemeentelijke gezondheidsdienst / Niederländisches Gesundheitsministerium)
   * 0.3 Usability & Experience Test Design Iteration - Kalenderwoche 21
   * 0.2 Usability & Experience Test Design Iteration - Kalenderwoche 20
   * [Analyse von GGD-Prozessen mit Forschungsfragen](https://miro.com/app/board/o9J_ks176Fk=/) - Kalenderwoche 20
