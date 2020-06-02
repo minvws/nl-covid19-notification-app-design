@@ -1,0 +1,28 @@
+### What questions do users have? What do we want to communicate?
+
+- How does the application keep track of who I met?
+- When is a meeting considered risky?
+- Where is the app data stored?
+- How long is this data stored?
+- Who has access to this data?
+- When is this data being shared?
+- How is anonymity guaranteed?
+- Does bluetooth use a lot of battery?
+- Does the app use a lot of data?
+- Is my location saved in the app / somewhere else?
+- When will I receive a notification from the app?
+- What will I learn through this notification? (day)
+- What will I not learn through this notification (person, time, location)
+- What will be the advice after I had a risky meeting?
+- How can I have myself tested for covid-19?
+- How is a test result communicated to me/others?
+- How can I report myself as tested positive?
+- What do my contacts see when I have tested positive in the app?
+- How can I share the application with friends and family?
+- Does the app warn when it stops working? (i.e. data, bluetooth)
+- How do I give the correct permissions for the app to work correctly?
+- Does the application run in the background of my mobile?
+- How accurate is bluetooth?
+- Can I temporarily pause the application?
+- Can others see from my application that I had a risky meeting?
+- Can I delete all information?
