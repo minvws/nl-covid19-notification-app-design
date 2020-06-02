@@ -43,7 +43,7 @@ Wir machen das durch:
 - Befragung von Personen, die zuvor das Coronavirus hatten, und ihrer Kontakte (Interviews)
 - Zusammenarbeit mit der Taskforce Behavioral Sciences des RIVM (Nationales Institut für öffentliche Gesundheit und Umwelt)
 - Forschungsfragen und Erkenntnisse mit der Community zu teilen und diese offen zu diskutieren.
-- Testen Sie öffentliche Beta-Versionen der App mit einem breiten Publikum
+- Testen der öffentlichen Beta-Versionen der App mit einem möglichst breiten Publikum
 
 HINWEIS: Dieses Dokument ist auch [auf Niederländisch] verfügbar (../gebruikersonderzoek.md). Die niederländische Sprachversion ist führend.
 
