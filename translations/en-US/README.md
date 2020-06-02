@@ -13,6 +13,7 @@ Our intention is make the development and design of the Dutch COVID19 notificati
 * [Product Definition (English)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/product-definition.md)
 * [Design Principles (English)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/design-principles.md)
 * [Job Stories (English)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/job-stories.md)
+* [User Questions (English)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/en-US/user-questions.md)
 * [Usability research (English)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/usability-research.md)
   * Inzichten meeloopdag GGD - week 21
   * 0.3 Usability & Experience test design iteratie - week 21
