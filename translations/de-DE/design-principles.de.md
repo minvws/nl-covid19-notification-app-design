@@ -4,7 +4,7 @@ Um eine hohe Akzeptanzrate zu erreichen, entwickeln wir eine App, die von einem 
 
 ### Die App erklärt, wie die digitale Kontaktverfolgung funktioniert, und gibt Benutzern Auskunft über Datenschutz und Sicherheit.
 
-Der App ist klar, welche Techniken verwendet werden, welche Informationen gesammelt werden, wie die Informationen verwendet werden und mit wem die Informationen geteilt werden. Die App beseitigt Missverständnisse und stellt sicher, dass Benutzer eine fundierte Entscheidung darüber treffen können, ob sie installiert und verwendet werden soll oder nicht. Wenn jemand die App nicht verwendet, ist dies seine informierte Entscheidung.
+Die App macht klar, welche Techniken verwendet, welche Informationen gesammelt, wie die Informationen verwendet und mit wem die Informationen geteilt werden. Die App beseitigt Missverständnisse und stellt sicher, dass Benutzer eine fundierte Entscheidung darüber treffen können, ob sie installiert und verwendet werden soll oder nicht. Wenn jemand die App nicht verwendet, ist dies seine informierte Entscheidung.
 
 ### Die App informiert ehrlich und klar ueber technologische Einschränkungen unter Berücksichtigung von einem sinnvollen Einsatz.
 
