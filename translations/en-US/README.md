@@ -53,11 +53,13 @@ Sometimes even we don't have all of the the answers so we look to you - the publ
 
 ---
 
-## License (this translation is provisional and still under review)
+## License
 
-The intellectual property rights to (part of) this work rest with the Kingdom of the Netherlands. The Kingdom of the Netherlands reserves the right to this (part of the) work.
+The intellectual property relating to all or part of this work rests with the government of the Netherlands, which reserves these rights.
 
-The Kingdom of the Netherlands may use and publish the designs and documentation to which you contribute. By making a contribution, you transfer the intellectual property and copyright to the Kingdom of the Netherlands and agree that your contribution may also be used and made public by the Kingdom of the Netherlands.
+The government may use and publish the designs and documents to which you contribute. By submitting a contribution, you assign your intellectual property and copyright to the government.
+
+In order to ensure that all licensing and copyright details are dealt with, you must read and accept our [Contributor Licence Agreement](https://cla-assistant.io/minvws/nl-covid19-notification-app-design) if you wish to contribute.
 
 ---
 
