@@ -4,7 +4,7 @@ Ons doel van deze week was om een zo compleet mogelijk overzicht te bieden van d
 
 Mede met dank aan de community op Slack, GitHub en Twitter hebben we voor deze versie (0.5) een aantal belangrijke besluiten genomen. We verwachten dat deze besluiten een framework bieden waarbinnen we tot de release aan kunnen werken. Enkel bij grote veranderingen in het Plan van Eisen zullen hier mogelijk veranderingen in komen. De belangrijkste veranderingen willen we hier toelichten.
 
-**Navigatie structuur**
+**Navigatiestructuur**
 
 We hebben verschillende navigatie structuren overwogen, zoals bijvoorbeeld een subtiel menu rechtsboven, een zeer zichtbaar opties menu knop onderaan, en een thuis scherm met scrollview met daarop content-kaarten. Uiteindelijk hebben we ervoor gekozen om de statuspagina scrollbaar te maken en hier de verschillende opties te tonen. De voornaamste overwegingen waren:
 
@@ -21,7 +21,7 @@ We moeten ten alle tijden voorkomen dat de applicatie gebruikt kan worden als ee
 1. Bij het ontvangen van een notificatie wordt een modal-view (scherm) geopend met het bericht en enige uitleg.
 2. De statuspagina wordt aangepast, met een knop om de vervolgacties te lezen.
 
-We hebben uiteindelijk gekozen voor optie B. De belangrijkste overwegingen hierbij waren dat
+We hebben uiteindelijk gekozen voor optie 2. De belangrijkste overwegingen hierbij waren dat
 
 1. Deze optie voorkomt dat iemand uit automatisme het bericht sluit. Het wordt een zeer bewuste actie. We gaan er ook van uit dat het merendeel van de mensen het bericht niet zal willen sluiten omdat ze niet verwachten dat anderen naar hun telefoon zullen kijken. Dus het mogelijk maken het bericht te laten staan is belangrijk.
 2. Dit houdt de belangrijkste informatie, maar ook de overige informatie in de app, voor hun beschikbaar. -- Wanneer iemand besluit om de app weer in de &#39;neutrale status&#39; te zetten dan is de essentiële informatie nog steeds beschikbaar, daar deze voor alle gebruikers altijd beschikbaar is.
@@ -37,7 +37,7 @@ Bovenstaand zijn de grote wijzigingen, daarnaast er ook vele kleinere wijziginge
   - Bericht ontvangen
   - OS updaten om deze app te gebruiken.
 - Er is een eerste tekstuele versie van het &quot;Hoe werkt de app&quot; scherm toegevoegd.
-- Er is een eerste versie van de &quot;bevestigingscode&quot; flow toegevoegd.
+- Er is een eerste versie van de flow toegevoegd waarin gebruikers zichzelf als positief getest kunnen melden.
 - Er is een los instellingen scherm gemaakt waar daadwerkelijk secundaire functionaliteit staat zoals de privacy policy, en de terms of use.
 - De optie om de app te delen is in de onboarding en onderaan het statuspagina toegevoegd om adoptie te helpen.
 
