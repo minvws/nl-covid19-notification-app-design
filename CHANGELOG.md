@@ -2,7 +2,7 @@
 
 Ons doel van deze week was om een zo compleet mogelijk overzicht te bieden van de verschillende schermen/flows, en een framework op te zetten waarbinnen we allen kunnen werken.
 
-Mede met dank aan de community op Slack, GitHub, Twitter en gebruikersonderzoek hebben we voor deze versie (0.5) een aantal belangrijke besluiten genomen. We verwachten dat deze besluiten een framework bieden waarbinnen we tot de release aan kunnen werken. Enkel bij grote veranderingen in het Plan van Eisen zullen hier mogelijk veranderingen in komen. De belangrijkste veranderingen willen we hier toelichten.
+Mede met dank aan de community op Slack, GitHub, Twitter en gebruikersonderzoek hebben we voor deze versie (0.5) een aantal belangrijke besluiten genomen. We verwachten dat deze besluiten een framework bieden waarbinnen we tot de release aan kunnen werken. Enkel bij grote veranderingen in het [Plan van Eisen](https://github.com/minvws/nl-covid19-notification-app-coordination/tree/master/requirements) zullen hier mogelijk veranderingen in komen. De belangrijkste veranderingen willen we hier toelichten.
 
 **Navigatiestructuur**
 
