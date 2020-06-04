@@ -29,7 +29,7 @@ Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19-noti
 
 ## Hoe kun je bijdragen?
 
-1. Word lid van de [CodeForNL Slack](https://doemee.codefor.nl/) en ga naar het [`#notificatie-app-design` kanaal](https://codefornl.slack.com/messages/notificatie-app-design) kanaal. 
+1. Word lid van de [CodeForNL Slack](https://doemee.codefor.nl/) en ga naar het [`#notificatie-app-design` kanaal](https://codefornl.slack.com/messages/notificatie-app-design). 
 2. Wanneer je actief wil bijdragen aan het ontwerp dan kun je toegang vragen tot onze gesloten Figma door [@jelleprins](https://www.twitter.com/jelleprins) een DM te sturen met je e-mail adres, en vervolgens in de Figma een eigen pagina aan te maken.
 3. Voor de teksten die hier op GitHub gepubliceerd zijn kan je via GitHub suggesties doen.
 
@@ -60,5 +60,5 @@ Om alle licentie en auteursrechtelijke details af te handelen is het van belang 
 
 ---
 
-NOTE: This README is also available [in English](translations/README.en.md). Thank you for understanding that the English version might not always be up-to-date with the Dutch one.
-NOTE: Deze README is ook beschikbaar [in het Engels](translations/README.en.md). Dank voor je begrip dat de Engelse versie niet altijd up-to-date is
+NOTE: This README is also available [in English](translations/en-US/README.md). Thank you for understanding that the English version might not always be up-to-date with the Dutch one.
+NOTE: Deze README is ook beschikbaar [in het Engels](translations/en-US/README.md). Dank voor je begrip dat de Engelse versie niet altijd up-to-date is
