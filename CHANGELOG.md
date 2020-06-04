@@ -2,11 +2,11 @@
 
 Ons doel van deze week was om een zo compleet mogelijk overzicht te bieden van de verschillende schermen/flows, en een framework op te zetten waarbinnen we allen kunnen werken.
 
-Mede met dank aan de community op Slack, GitHub, Twitter en gebruikersonderzoek hebben we voor deze versie (0.5) een aantal belangrijke besluiten genomen. We verwachten dat deze besluiten een framework bieden waarbinnen we tot de release aan kunnen werken. Enkel bij grote veranderingen in het [Plan van Eisen](https://github.com/minvws/nl-covid19-notification-app-coordination/tree/master/requirements) zullen hier mogelijk veranderingen in komen. De belangrijkste veranderingen willen we hier toelichten.
+Mede met dank aan de community op Slack, GitHub, Twitter en gebruikersonderzoek hebben we voor deze versie (0.5) een aantal belangrijke besluiten genomen. We verwachten dat deze besluiten een framework bieden waarbinnen we tot de release kunnen werken. Alleen bij grote veranderingen in het [Programma van Eisen](https://github.com/minvws/nl-covid19-notification-app-coordination/tree/master/requirements) zullen hier mogelijk veranderingen in komen. De belangrijkste veranderingen willen we hier toelichten.
 
 **Navigatiestructuur**
 
-We hebben verschillende navigatie structuren overwogen, zoals bijvoorbeeld een subtiel menu rechtsboven, een zeer zichtbaar opties menu knop onderaan, en een thuis scherm met scrollview met daarop content-kaarten. Uiteindelijk hebben we ervoor gekozen om de statuspagina scrollbaar te maken en hier de verschillende opties te tonen. De voornaamste overwegingen waren:
+We hebben verschillende navigatiestructuren overwogen, zoals bijvoorbeeld een subtiel menu rechtsboven, een zeer zichtbare "meer opties" menu-knop onderaan, en een thuis scherm met scrollview met daarop content-kaarten. Uiteindelijk hebben we ervoor gekozen om de statuspagina scrollbaar te maken en hier de verschillende opties te tonen. De voornaamste overwegingen waren:
 
 1. Deze optie is zeer toegankelijk, het is immers allemaal al aanwezig en zichtbaar te maken met 1 keer scrollen.
 2. Het geeft direct een extra indruk van de werking van de applicatie.
