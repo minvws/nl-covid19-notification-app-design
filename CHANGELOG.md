@@ -1,10 +1,10 @@
-**Design Release 0.5 - Week 23**
+## Design Release 0.5 - Week 23
 
 Ons doel van deze week was om een zo compleet mogelijk overzicht te bieden van de verschillende schermen/flows, en een framework op te zetten waarbinnen we allen kunnen werken.
 
 Mede met dank aan de community op Slack, GitHub, Twitter en gebruikersonderzoek hebben we voor deze versie (0.5) een aantal belangrijke besluiten genomen. We verwachten dat deze besluiten een framework bieden waarbinnen we tot de release kunnen werken. Alleen bij grote veranderingen in het [Programma van Eisen](https://github.com/minvws/nl-covid19-notification-app-coordination/tree/master/requirements) zullen hier mogelijk veranderingen in komen. De belangrijkste veranderingen willen we hier toelichten.
 
-**Navigatiestructuur**
+### Navigatiestructuur
 
 We hebben verschillende navigatiestructuren overwogen, zoals bijvoorbeeld een subtiel menu rechtsboven, een zeer zichtbare "meer opties" menu-knop onderaan, en een thuis scherm met scrollview met daarop content-kaarten. Uiteindelijk hebben we ervoor gekozen om de statuspagina scrollbaar te maken en hier de verschillende opties te tonen. De voornaamste overwegingen waren:
 
@@ -14,7 +14,7 @@ We hebben verschillende navigatiestructuren overwogen, zoals bijvoorbeeld een su
 
 We hebben hierbij veel gehad aan de voorbeelden en input van o.a. Edwin van Bospoort, Aldert Greijdanus, Revi Kornmann, Stefan de Weijer Bart van de Biezen, Benjamin Broersma, Arian van Putten, Bas van Dorst, Rob Voets en Patrick Vos.
 
-**Blootstelling Notificatie**
+### Blootstelling Notificatie
 
 We moeten ten alle tijden voorkomen dat de applicatie gebruikt kan worden als een &#39;corona paspoort&#39; om aan te tonen dat iemand corona-vrij is. Dit zou bedrijven en instellingen ertoe kunnen bewegen om aan mensen te vragen om de app te tonen als bewijs dat zij niet in de buurt zijn geweest van iemand die positief getest is, of dat ze zelf positief zijn getest. Wanneer iemand een blootstelling notificatie heeft gehad, of zelf positief is getest, dan moeten zij de optie hebben om dit &quot;bericht&quot; te &quot;wissen&quot;. Tegelijkertijd is een blootstelling notificatie erg belangrijk, en kunnen we situaties bedenken (i.e. slaapdronken uit automatisme weg tappen) waarbij iemand de app al wel weer in een neutrale status heeft. We hebben grofweg 2 varianten overwogen.
 
@@ -31,7 +31,7 @@ We hebben hierbij wederom veel gehad aan de input van o.a. Edwin van de Bospoort
 Bovenstaand zijn de grote wijzigingen, daarnaast er ook vele kleinere wijzigingen. Je kunt de verschillende versies naast elkaar bekijken om deze te evalueren. Onderstaand een selectie van andere belangrijke stappen die we hebben kunnen zetten. We verwachten dat de rest van de wijzigingen zonder uitleg hier redelijk duidelijk zijn, maar beantwoorden graag alle vragen die je hebt op het slack kanaal!
 
 - Er zijn nieuwe illustraties en teksten, op basis van community feedback en de user tests, in de schermen geplaatst.
-- De verschillende staten van het statuspagina zijn nu toegevoegd. De belangrijkste zijn:
+- De verschillende staten van de statuspagina zijn nu toegevoegd. De belangrijkste zijn:
   - App is niet actief
   - Bluetooth staat niet aan
   - Bericht ontvangen
@@ -47,4 +47,4 @@ Nog een extra shoutout naar Maarten Janssen voor zijn ideeën m.b.t. de testknop
 
 We hopen dat we niemand zijn vergeten in de credits. Naarmate er meer mensen meedoen zal het lastiger worden om bij te houden wie er heeft bijgedragen. We waarderen alle input enorm, en geloven dat deze ook essentieel is voor zowel de ontwikkeling als de uiteindelijke acceptatie en adoptie. Alleen samen kunnen we deze app tot een succes maken. Uiteindelijk willen we iedereen die heeft bijgedragen meenemen in een lijst in de app (subtiel verstopt).
 
-Een eerste versie staat hier: https://github.com/minvws/nl-covid19-notification-app-design/pull/28
+Een eerste versie staat hier: https://github.com/minvws/nl-covid19-notification-app-design/blob/master/%E2%9D%A4%EF%B8%8F
