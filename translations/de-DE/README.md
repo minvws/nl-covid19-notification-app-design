@@ -11,10 +11,11 @@ Wir beabsichtigen, die Entwicklung und Gestaltung des niederländischen COVID19-
 
 ## Überblick
 * [Bedarfsanforderungen (Niederländisch)](https://www.rijksoverheid.nl/onderwerpen/coronavirus-app/documenten/publicaties/2020/05/19/programma-van-eisen)
-* [Produktdefinition (Englisch)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/product-definition.md)
-* [Design-Prinzipien (Englisch)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/product-definition.en.md)
-* [User Stories (Englisch)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/job-stories.md)
-* [Usability-Analyse (Englisch)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/usability-research.md)
+* [Produktdefinition (Deutsch)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/de-DE/product-definition.de.md)
+* [Design-Prinzipien (Deutsch)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/de-DE/design-principles.de.md)
+* [User Stories (Englisch)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/de-DE/user-stories.de.md)
+* [User Questions (Deutsch)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/de-DE/user-questions.de.md)
+* [Usability-Analyse (Deutsch)](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/translations/de-DE/usability-research.de.md)
   * GGD-Follow-up-Tag - Kalenderwoche 20 (GGD - Gemeentelijke gezondheidsdienst / Niederländisches Gesundheitsministerium)
   * 0.3 Usability & Experience Test Design Iteration - Kalenderwoche 21
   * 0.2 Usability & Experience Test Design Iteration - Kalenderwoche 20
