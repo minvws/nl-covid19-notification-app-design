@@ -27,7 +27,8 @@ Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19-noti
   * [0.1 Usability & Experience test van Corona referentie app](https://corona.sticktailapp.com/study-share/VJBHjC35hae9/usability-experience-test-van-corona-referentie-app-972/) - week 19
   * [Hoe gebruikers over de corona-app denken en waarom hun stem belangrijk is](http://corona.sticktailapp.com/study-share/vvvH2cNcFQTC/verkennend-onderzoek-corona-apps-735/) - week 17
 * Designs
-  * [Laatste Versie 0.5](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) ([Changelog](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/CHANGELOG.md)) — Week 23
+  * [Laatste Versie 0.6](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) ([Changelog](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/CHANGELOG.md)) — Week 25
+  * [Versie 0.5](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) — Week 23
   * [Versie 0.4](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) — Week 22
   * Versie 0.3 — Week 21
   * Versie 0.2 — Week 20
