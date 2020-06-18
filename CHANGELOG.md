@@ -15,6 +15,7 @@ Een aantal fundamentele zaken ontbreken nog en zullen niet voor de eerste fase v
 Deze zaken zullen voor de livegang nog in aparte, kleinere pilots of in het lab getest worden.
 
 
+
 ## Design Release 0.5 - Week 23
 
 Ons doel van deze week was om een zo compleet mogelijk overzicht te bieden van de verschillende schermen/flows, en een framework op te zetten waarbinnen we allen kunnen werken.
