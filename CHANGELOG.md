@@ -1,3 +1,21 @@
+## Pilot Designs - week 25
+
+Er zal binnenkort een pilot plaatsvinden waarbij een kleine groep gebruikers toegang krijgt tot een alpha versie van de app. 
+
+De app zal nog niet compleet zijn. Veel van de basis functionaliteiten zullen wel getest kunnen worden. De afgelopen weken heeft het design en research team vooral gewerkt aan het voorbereiden van deze pilot. De designs die geïmplementeerd zullen worden zijn nu gepubliceerd als 'Pilot Designs'.
+
+Een aantal fundamentele zaken ontbreken nog en zullen niet voor de eerste fase van de pilot geïmplementeerd worden, waaronder:
+
+- De app zal alleen in het Nederlands beschikbaar zijn.
+- De app zal nog niet aan alle toegankelijkheids standaarden voldoen voor mensen met beperkingen.
+- De testers krijgen een directe link om de app te downloaden, er zal dus geen sprake zijn van een adoptie campagne, website, app store e.d.
+- Om een aantal plekken is er ook voor gekozen om het design heel simpel te houden om zo de ontwikkelsnelheid te verhogen. 
+- De app is qua content nog niet compleet.
+
+Deze zaken zullen voor de livegang nog in aparte, kleinere pilots of in het lab getest worden.
+
+
+
 ## Design Release 0.5 - Week 23
 
 Ons doel van deze week was om een zo compleet mogelijk overzicht te bieden van de verschillende schermen/flows, en een framework op te zetten waarbinnen we allen kunnen werken.
