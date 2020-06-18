@@ -2,7 +2,7 @@
 
 Er zal binnenkort een pilot plaatsvinden waarbij een kleine groep gebruikers toegang krijgt tot een alpha versie van de app. 
 
-De app zal nog niet compleet zijn. Veel van de basis functionaliteiten zullen wel getest kunnen worden. De afgelopen weken heeft het design en research team vooral gewerkt aan het voorbereiden van deze pilot. De designs die geïmplementeerd zullen worden zijn nu gepubliceerd als 'Pilot Designs'.
+De app zal nog niet compleet zijn. Veel van de basis functionaliteiten zullen wel getest kunnen worden. De afgelopen weken heeft het design en research team vooral gewerkt aan het voorbereiden van deze pilot. De designs die geïmplementeerd zullen worden zijn nu gepubliceerd als '[Pilot Designs](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)?node-id=26816%3A47)'.
 
 Een aantal fundamentele zaken ontbreken nog en zullen niet voor de eerste fase van de pilot geïmplementeerd worden, waaronder:
 
