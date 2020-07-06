@@ -13,11 +13,16 @@ Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19-noti
 * [Design Principes](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/design-principes.md)
 * [Job Stories](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/job-stories.md)
 * [Gebruikersonderzoek](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/gebruikersonderzoek.md)
+  * [Testen met mensen met een licht verstandelijke beperking](https://corona.sticktailapp.com/study-share/tNTEz0LhQAxe/testen-met-mensen-met-een-licht-verstandelijke-beperking-683/) - week 27
+  * [Testen met wijkbewoners met een lage SES](http://corona.sticktailapp.com/study-share/EvM0wDONKqem/app-testen-met-wijkbewoners-met-een-laag-sociaal-economische-status-679/) - week 27
+  * [Testen met taalambassadeurs](https://corona.sticktailapp.com/study-share/wChGqrj8vYf4/in-gesprek-met-taalambassadeurs-559/) - week 27
   * [Inzichten meeloopdag GGD](http://corona.sticktailapp.com/study-share/r5XRgcAehLpB/meeloopdag-ggd-330/) - week 25
   * [Inzichten meeloopdag Testfaciliteit](http://corona.sticktailapp.com/study-share/F29AF8mGiOUF/meelopen-in-testfaciliteit-644/) - week 24
   * [Inzichten meeloopdag Bron- en Contactonderzoek GGD](http://corona.sticktailapp.com/study-share/tHbLG3OXvq3H/meeloopdag-ggd-bron-en-contactonderzoek-804/) - week 23
   * [Interview ex-patienten](http://corona.sticktailapp.com/study-share/v6vryvdVID83/interviews-ex-patienten-513/) - week 23
   * [Inzichten meeloopdag GGD](http://corona.sticktailapp.com/study-share/AeHf5ulXRQL4/meeloopdag-ggd-fryslan-324/) - week 21
+  * [Veldtest versie - Usability & experience onderzoek](http://corona.sticktailapp.com/study-share/2P67KThIQZeB/veldtest-versie-usability-experience-onderzoek-210/) - week 26
+  * [0.7 Usability onderzoek – twijfelaars en positief melden](http://corona.sticktailapp.com/study-share/r8Rc4KJ6Lsw9/07-usability-onderzoek-twijfelaars-en-positief-melden-506/) - week 25
   * [Kwantitative vergelijking verschillende onboarding flows](http://corona.sticktailapp.com/study-share/HWEDadBMRIIP/kwantitatieve-vergelijking-van-variaties-op-onboarding-245/) - Week 24
   * [0.6 Usability & Experience test](http://corona.sticktailapp.com/study-share/7xoRpYAcfqrs/06-usability-experience-onderzoek-338/) - Week 24
   * [0.5 Usability & Experience test](http://corona.sticktailapp.com/study-share/EOLxHj4vcDDv/054-usability-experience-onderzoek-178/) - Week 23
