@@ -13,6 +13,7 @@ Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19-noti
 * [Design Principes](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/design-principes.md)
 * [Job Stories](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/job-stories.md)
 * [Gebruikersonderzoek](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/gebruikersonderzoek.md)
+  * [Testen met mensen met een motorische beperking](http://corona.sticktailapp.com/study-share/5mRZSO3uP5FY/onderzoek-met-mensen-met-een-motorische-beperking-942/) - week 27
   * [Testen met mensen met een licht verstandelijke beperking](https://corona.sticktailapp.com/study-share/tNTEz0LhQAxe/testen-met-mensen-met-een-licht-verstandelijke-beperking-683/) - week 27
   * [Testen met wijkbewoners met een lage SES](http://corona.sticktailapp.com/study-share/EvM0wDONKqem/app-testen-met-wijkbewoners-met-een-laag-sociaal-economische-status-679/) - week 27
   * [Testen met taalambassadeurs](https://corona.sticktailapp.com/study-share/wChGqrj8vYf4/in-gesprek-met-taalambassadeurs-559/) - week 27
