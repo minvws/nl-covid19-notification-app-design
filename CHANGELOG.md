@@ -1,8 +1,20 @@
-## Pilot Designs - week 25
+## Pilot Designs 0.7 - week 28
+
+In voorbereiding van de pilot is het design op een paar kleine punten aangepast. Deze designs zijn nu gepubliceerd als '[Pilot Designs 0.7](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)?node-id=30994%3A109)'.
+
+- Een tijdelijk app icon is ontworpen voor gebruik tijdens de pilot.
+- Op het melding scherm in de Android versie, is de kleur van de background en de knop aangepast.
+- Icon in het melding scherm is aangepast van een uitroepteken naar een belletje.
+- Het design van de error-meldingen op het statusscherm in de Android versie is aangepast.
+- Kleine tekstuele aanpassing op de "positief getest" pagina.
+
+Meer fundamentele aanpassingen zullen zichtbaar worden in de 0.8 versie van het design. 
+
+## Pilot Designs 0.6 - week 25
 
 Er zal binnenkort een pilot plaatsvinden waarbij een kleine groep gebruikers toegang krijgt tot een alpha versie van de app. 
 
-De app zal nog niet compleet zijn. Veel van de basis functionaliteiten zullen wel getest kunnen worden. De afgelopen weken heeft het design en research team vooral gewerkt aan het voorbereiden van deze pilot. De designs die geïmplementeerd zullen worden zijn nu gepubliceerd als '[Pilot Designs](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)?node-id=26816%3A47)'.
+De app zal nog niet compleet zijn. Veel van de basis functionaliteiten zullen wel getest kunnen worden. De afgelopen weken heeft het design en research team vooral gewerkt aan het voorbereiden van deze pilot. De designs die geïmplementeerd zullen worden zijn nu gepubliceerd als '[Pilot Designs 0.6](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)?node-id=26816%3A47)'.
 
 Een aantal fundamentele zaken ontbreken nog en zullen niet voor de eerste fase van de pilot geïmplementeerd worden, waaronder:
 
