@@ -13,6 +13,7 @@ Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19-noti
 * [Design Principes](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/design-principes.md)
 * [Job Stories](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/job-stories.md)
 * [Gebruikersonderzoek](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/gebruikersonderzoek.md)
+  * [Testen met 60+'ers](https://corona.sticktailapp.com/study-share/AavfftUW8jca/coronamelder-app-onderzoek-met-60ers-785/) - week 28
   * [Testen met mensen met een motorische beperking](http://corona.sticktailapp.com/study-share/5mRZSO3uP5FY/onderzoek-met-mensen-met-een-motorische-beperking-942/) - week 27
   * [Testen met mensen met een licht verstandelijke beperking](https://corona.sticktailapp.com/study-share/tNTEz0LhQAxe/testen-met-mensen-met-een-licht-verstandelijke-beperking-683/) - week 27
   * [Testen met wijkbewoners met een lage SES](http://corona.sticktailapp.com/study-share/EvM0wDONKqem/app-testen-met-wijkbewoners-met-een-laag-sociaal-economische-status-679/) - week 27
@@ -34,7 +35,9 @@ Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19-noti
   * [0.1 Usability & Experience test van Corona referentie app](https://corona.sticktailapp.com/study-share/VJBHjC35hae9/usability-experience-test-van-corona-referentie-app-972/) - week 19
   * [Hoe gebruikers over de corona-app denken en waarom hun stem belangrijk is](http://corona.sticktailapp.com/study-share/vvvH2cNcFQTC/verkennend-onderzoek-corona-apps-735/) - week 17
 * Designs
-  * [Laatste Versie 0.6](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) ([Changelog](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/CHANGELOG.md)) — Week 25
+  * [Versie 0.8](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)?node-id=31300%3A0) ([Changelog](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/CHANGELOG.md)) — Week 29
+  * [Versie 0.7 Pilot designs](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)?node-id=30994%3A109) — Week 28
+  * [Versie 0.6 Pilot designs](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) — Week 25
   * [Versie 0.5](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) — Week 23
   * [Versie 0.4](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) — Week 22
   * Versie 0.3 — Week 21
@@ -44,7 +47,7 @@ Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19-noti
 
 ## Hoe kun je bijdragen?
 
-1. Word lid van de [CodeForNL Slack](https://doemee.codefor.nl/) en ga naar het [`#notificatie-app-design` kanaal](https://codefornl.slack.com/messages/notificatie-app-design). 
+1. Word lid van de [CodeForNL Slack](https://doemee.codefor.nl/) en ga naar het [`#coronamelder-design` kanaal](https://codefornl.slack.com/messages/coronamelder-design). 
 2. Wanneer je actief wil bijdragen aan het ontwerp dan kun je toegang vragen tot onze gesloten Figma door [@jelleprins](https://www.twitter.com/jelleprins) een DM te sturen met je e-mail adres, en vervolgens in de Figma een eigen pagina aan te maken.
 3. Voor de teksten die hier op GitHub gepubliceerd zijn kan je via GitHub suggesties doen.
 
@@ -58,7 +61,7 @@ In de oude gedeelde versies blijven alle daar geplaatste comments en antwoorden 
 Draag bij door vragen te stellen en comments te plaatsen. Al je suggesties zijn welkom. En we doen onze uiterste best om alles te lezen, de goede suggesties mee te nemen en vragen te beantwoorden. We kunnen echter niet beloven dat we overal op in kunnen gaan.
 
 ### Praat en denk mee op ons Slack kanaal
-Vragen of reacties via de Slack community van CodeForNL [`#notificatie-app-design` kanaal](https://codefornl.slack.com/messages/notificatie-app-design). Meld je aan via https://doemee.codefor.nl/. Vanuit het vaste design team zullen er mensen mee kijken, en waar mogelijk ook mee praten.
+Vragen of reacties via de Slack community van CodeForNL [`#coronamelder-design` kanaal](https://codefornl.slack.com/messages/coronamelder-design). Meld je aan via https://doemee.codefor.nl/. Vanuit het vaste design team zullen er mensen mee kijken, en waar mogelijk ook mee praten.
 
 #### Draag bij aan onze publieke challenges
 Soms weten wij het ook even niet, en vragen we een nog actievere bijdrage. We vertalen de ontwerpuitdagingen waar we dan voor staan naar challenges, waaraan jij in een publiek toegankelijke Figma file kan bijdragen. Ieder in z’n eigen page. Vraag toegang aan door een Twitter DM te sturen naar [@jelleprins](https://www.twitter.com/jelleprins).
