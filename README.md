@@ -13,6 +13,9 @@ Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19-noti
 * [Design Principes](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/design-principes.md)
 * [Job Stories](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/job-stories.md)
 * [Gebruikersonderzoek](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/gebruikersonderzoek.md)
+  * [Inzichten meeloopdag GGD en test app-portaal](http://corona.sticktailapp.com/study-share/z7FWobsVMbIe/meelopen-en-test-ggd-169/) - week 29
+  * [Inzichten dubbeltest GGD en app-gebruikers](http://corona.sticktailapp.com/study-share/mgzWw55GdKxA/dubbeltest-app-app-portaal-115/) - week 29
+  * [Inzichten meeloopdag GGD en test app-portaal](http://corona.sticktailapp.com/study-share/pJjR4djzQYWt/app-portaal-testen-bij-de-ggd-714/) - week 28
   * [Testen met 60+'ers](https://corona.sticktailapp.com/study-share/AavfftUW8jca/coronamelder-app-onderzoek-met-60ers-785/) - week 28
   * [Testen met mensen met een motorische beperking](http://corona.sticktailapp.com/study-share/5mRZSO3uP5FY/onderzoek-met-mensen-met-een-motorische-beperking-942/) - week 27
   * [Testen met mensen met een licht verstandelijke beperking](https://corona.sticktailapp.com/study-share/tNTEz0LhQAxe/testen-met-mensen-met-een-licht-verstandelijke-beperking-683/) - week 27
