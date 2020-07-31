@@ -1,3 +1,13 @@
+## Changelog 0.9 - week 31
+In 0.9 zitten dingen voor de toekomst maar ook voor de eerste release. 
+
+- End-of-life state toegevoegd. Mocht het nodig zijn de app te stoppen kan dit nu gecommuniceerd worden. We kunnen vanuit dit scherm linken naar een website met meer uitleg.
+- De primaire actie om een coronatest aan te vragen zal via een website lopen. Daar kun je online zelf een afspraak maken.
+- Er is een aanduiding en uitleg toegevoegd dat iedereen die positief test anderen kunnen waarschuwen met CoronaMelder vanaf 1 september.
+- Pauzeer functionaliteit voorbereid. Er is nu een ontwerp dat kan werken onder voorwaarde dat dit technisch ook mogelijk is met de API van Google en Apple.
+- De wolkjes in het statusscherm in de inactieve en melding state zijn verwijderd.
+
+
 ## Changelog 0.8 - week 29
 
 De 0.8 release is bedoeld als design dat gebruikt zal gaan worden voor de eerste productieversie van de app. Het krijgt nog geen 1.0 versieaanduiding omdat in de komende periode nog aanpassingen en toevoegingen op het gebied van copy gedaan moeten worden. Daarnaast lopen er nog onderzoeken die mogelijk invloed kunnen hebben op het design.
