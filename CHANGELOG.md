@@ -3,7 +3,7 @@ In 0.9 zitten dingen voor de toekomst maar ook voor de eerste release.
 
 - End-of-life state toegevoegd. Mocht het nodig zijn de app te stoppen kan dit nu gecommuniceerd worden. We kunnen vanuit dit scherm linken naar een website met meer uitleg.
 - De primaire actie om een coronatest aan te vragen zal via een website lopen. Daar kun je online zelf een afspraak maken.
-- Er is een aanduiding en uitleg toegevoegd dat iedereen die positief test anderen kunnen waarschuwen met CoronaMelder vanaf 1 augustus.
+- Er is een aanduiding en uitleg toegevoegd dat iedereen die positief test anderen kunnen waarschuwen met CoronaMelder vanaf 1 september.
 - Pauzeer functionaliteit voorbereid. Er is nu een ontwerp dat kan werken onder voorwaarde dat dit technisch ook mogelijk is met de API van Google en Apple.
 - De wolkjes in het statusscherm in de inactieve en melding state zijn verwijderd.
 
