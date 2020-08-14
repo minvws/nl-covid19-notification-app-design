@@ -13,6 +13,10 @@ Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19-noti
 * [Design Principes](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/design-principes.md)
 * [Job Stories](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/job-stories.md)
 * [Gebruikersonderzoek](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/gebruikersonderzoek.md)
+  * [Community review translations](http://corona.sticktailapp.com/study-share/k5v3jTCWCRf6/community-review-translations-164/) - week 33
+  * [UX test video nut & noodzaak, app store, privacy consent & FAQ](http://corona.sticktailapp.com/study-share/3gDNdUOjikr9/app-store-en-privacy-consent-860/) - week 33
+  * [Usability test Arabische vertaling app](http://corona.sticktailapp.com/study-share/Y8ZAYdJ3ediE/arabische-versie-app-901/) - week 32
+  * [Kwantitatieve vergelijking app store visuals](http://corona.sticktailapp.com/study-share/2U64Ge4noSW4/kwantitatieve-vergelijking-app-store-visuals-587/) - week 32
   * [Test app-portaal 0.3 en e-learning 0.1 bij de GGD](http://corona.sticktailapp.com/study-share/oLE5AHArHrzt/test-app-portaal-bij-de-ggd-702/) - week 30
   * [Testen met blinden en slechtzienden](http://corona.sticktailapp.com/study-share/CD54YrpEfdf5/onderzoek-met-blinden-en-slechtzienden-808/) - week 30
   * [Kwantitatieve vergelijking onboarding flows](http://corona.sticktailapp.com/study-share/C03NKetukv2o/effect-10-minuten-melding-15-minuten-melding-op-adoptiebereidheid-297/) - Week 30
@@ -21,7 +25,8 @@ Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19-noti
   * [Inzichten meeloopdag GGD en test app-portaal 0.1](http://corona.sticktailapp.com/study-share/pJjR4djzQYWt/app-portaal-testen-bij-de-ggd-714/) - week 28
   * [Testen met 60+'ers](https://corona.sticktailapp.com/study-share/AavfftUW8jca/coronamelder-app-onderzoek-met-60ers-785/) - week 28
   * [Testen met mensen met een motorische beperking](http://corona.sticktailapp.com/study-share/5mRZSO3uP5FY/onderzoek-met-mensen-met-een-motorische-beperking-942/) - week 27
-  * [Testen met mensen met een licht verstandelijke beperking](https://corona.sticktailapp.com/study-share/tNTEz0LhQAxe/testen-met-mensen-met-een-licht-verstandelijke-beperking-683/) - week 27
+  * [Testen met mensen met een licht verstandelijke beperking (Door Leer zelf online)](http://corona.sticktailapp.com/study-share/9o27yOkvGf2y/onderzoek-met-mensen-735/) - week 27
+  * [Testen met mensen met een licht verstandelijke beperking (MEE Rotterdam)](https://corona.sticktailapp.com/study-share/tNTEz0LhQAxe/testen-met-mensen-met-een-licht-verstandelijke-beperking-683/) - week 27
   * [Testen met wijkbewoners met een lage SES](http://corona.sticktailapp.com/study-share/EvM0wDONKqem/app-testen-met-wijkbewoners-met-een-laag-sociaal-economische-status-679/) - week 27
   * [Testen met taalambassadeurs](https://corona.sticktailapp.com/study-share/wChGqrj8vYf4/in-gesprek-met-taalambassadeurs-559/) - week 27
   * [Inzichten meeloopdag GGD](http://corona.sticktailapp.com/study-share/r5XRgcAehLpB/meeloopdag-ggd-330/) - week 25
@@ -41,13 +46,15 @@ Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19-noti
   * [0.1 Usability & Experience test van Corona referentie app](https://corona.sticktailapp.com/study-share/VJBHjC35hae9/usability-experience-test-van-corona-referentie-app-972/) - week 19
   * [Hoe gebruikers over de corona-app denken en waarom hun stem belangrijk is](http://corona.sticktailapp.com/study-share/vvvH2cNcFQTC/verkennend-onderzoek-corona-apps-735/) - week 17
 * Designs
-  * [Versie 0.8](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)?node-id=31300%3A0) ([Changelog](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/CHANGELOG.md)) — Week 29
-  * [Versie 0.7 Pilot designs](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)?node-id=30994%3A109) — Week 28
-  * [Versie 0.6 Pilot designs](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) — Week 25
-  * [Versie 0.5](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) — Week 23
-  * [Versie 0.4](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) — Week 22
-  * Versie 0.3 — Week 21
-  * Versie 0.2 — Week 20
+  * [Versie 1.0](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)?node-id=35995%3A0) ([Changelog](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/CHANGELOG.md#changelog-10---week-33)) - week 33
+  * [Versie 0.9](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)?node-id=35498%3A196) ([Changelog](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/CHANGELOG.md#changelog-09---week-31)) - week 31 
+  * [Versie 0.8](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-Read-only?node-id=31300%3A0) ([Changelog](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/CHANGELOG.md#changelog-08---week-29)) — week 29
+  * [Versie 0.7 Pilot designs](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)?node-id=30994%3A109) — week 28
+  * [Versie 0.6 Pilot designs](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-Read-only?node-id=26816%3A47) — week 25
+  * [Versie 0.5](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-Read-only?node-id=23302%3A23) — week 23
+  * [Versie 0.4](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-Read-only?node-id=1%3A14) — week 22
+  * [Versie 0.3](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-Read-only?node-id=31%3A23) — week 21
+  * [Versie 0.2](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-Read-only?node-id=31%3A4468) — week 20
   * [Versie 0.1](https://www.figma.com/file/wmShfQYISsfW9rle8plc5n/Contact-tracing---Public?node-id=1%3A18851) — [This Is What a Contact Tracing App Could Look Like](https://onezero.medium.com/openui-a6b9c3d741de)
 
 
