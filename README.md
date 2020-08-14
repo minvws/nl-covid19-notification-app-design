@@ -14,7 +14,7 @@ Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19-noti
 * [Job Stories](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/job-stories.md)
 * [Gebruikersonderzoek](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/gebruikersonderzoek.md)
   * [Testen Arabische vertalingen en Recht naar Links interface](https://corona.sticktailapp.com/study-share/Y8ZAYdJ3ediE/arabische-versie-app-901/) - week 32
-  * [Test app-portaal 0.3 en e-learning 0.1 bij de GGD](Test app-portaal 0.3 en e-learning bij de GGD) - week 30
+  * [Test app-portaal 0.3 en e-learning 0.1 bij de GGD](http://corona.sticktailapp.com/study-share/oLE5AHArHrzt/test-app-portaal-bij-de-ggd-702/) - week 30
   * [Testen met blinden en slechtzienden](http://corona.sticktailapp.com/study-share/CD54YrpEfdf5/onderzoek-met-blinden-en-slechtzienden-808/) - week 30
   * [Kwantitatieve vergelijking onboarding flows](http://corona.sticktailapp.com/study-share/C03NKetukv2o/effect-10-minuten-melding-15-minuten-melding-op-adoptiebereidheid-297/) - Week 30
   * [Inzichten meeloopdag GGD en test app-portaal 0.2](http://corona.sticktailapp.com/study-share/z7FWobsVMbIe/meelopen-en-test-ggd-169/) - week 29
