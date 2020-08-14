@@ -2,6 +2,7 @@
 
 Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19-notificatie-app zo open en transparant mogelijk te doen. We zullen zoveel mogelijk en zo vroeg mogelijk de ontwerpen en bijbehorende documentatie hier delen zodat een ieder feedback kan leveren en kan bijdragen.
 
+
 ## Belangrijk:
 * **Dit is geen simpel project. Neem alsjeblieft de tijd om de gedeelde documenten en ontwerpen goed door te nemen alvorens je vragen stelt.**
 * **We delen de ontwerpen nu in een vroeg stadium. Zo ontbreken er functioneel nog zaken en zullen er nog zeker visuele, copy etc. veranderingen zijn.**
@@ -18,10 +19,10 @@ Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19-noti
   * [Usability test Arabische vertaling app](http://corona.sticktailapp.com/study-share/Y8ZAYdJ3ediE/arabische-versie-app-901/) - week 32
   * [Kwantitatieve vergelijking app store visuals](http://corona.sticktailapp.com/study-share/2U64Ge4noSW4/kwantitatieve-vergelijking-app-store-visuals-587/) - week 32
   * [Test app-portaal 0.3 en e-learning 0.1 bij de GGD](http://corona.sticktailapp.com/study-share/oLE5AHArHrzt/test-app-portaal-bij-de-ggd-702/) - week 30
-  * [Testen met blinden en slechtzienden](http://corona.sticktailapp.com/study-share/CD54YrpEfdf5/onderzoek-met-blinden-en-slechtzienden-808/) - week 30
+  * [Testen met blinden en slechtzienden](http://corona.sticktailapp.com/study-share/CD54YrpEfdf5/onderzoek-met-blinden-en-slechtzienden-808/) - week 30 ([item NOS Journaal zaterdag 25 juli](https://nos.nl/video/2341810-helemaal-helder-ook-voor-slechtzienden-gea-testte-de-corona-app.html))
   * [Kwantitatieve vergelijking onboarding flows](http://corona.sticktailapp.com/study-share/C03NKetukv2o/effect-10-minuten-melding-15-minuten-melding-op-adoptiebereidheid-297/) - Week 30
   * [Inzichten meeloopdag GGD en test app-portaal 0.2](http://corona.sticktailapp.com/study-share/z7FWobsVMbIe/meelopen-en-test-ggd-169/) - week 29
-  * [Inzichten dubbeltest GGD en app-gebruikers](http://corona.sticktailapp.com/study-share/mgzWw55GdKxA/dubbeltest-app-app-portaal-115/) - week 29
+  * [Inzichten dubbeltest GGD en app-gebruikers](http://corona.sticktailapp.com/study-share/mgzWw55GdKxA/dubbeltest-app-app-portaal-115/) - week 29 ([videoverslag Rijksoverheid YouTube](https://youtu.be/XapQwOSFKsc))
   * [Inzichten meeloopdag GGD en test app-portaal 0.1](http://corona.sticktailapp.com/study-share/pJjR4djzQYWt/app-portaal-testen-bij-de-ggd-714/) - week 28
   * [Testen met 60+'ers](https://corona.sticktailapp.com/study-share/AavfftUW8jca/coronamelder-app-onderzoek-met-60ers-785/) - week 28
   * [Testen met mensen met een motorische beperking](http://corona.sticktailapp.com/study-share/5mRZSO3uP5FY/onderzoek-met-mensen-met-een-motorische-beperking-942/) - week 27
