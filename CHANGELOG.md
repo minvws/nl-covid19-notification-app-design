@@ -1,3 +1,11 @@
+## Changelog 1.0 - week 33
+De 1.0 versie wordt de komende weken in een aantal GGD regio's getest. Naast onderstaande aanpassingen in de app is het bouwteam bezig geweest met vertalingen en visuals voor de Apple App Store en Google Play Store.
+
+- Het scherm voor toestemming gegevensverwerking is toegevoegd. Dit scherm is nog in ontwikkeling.
+- Copy handelingsperspectief ‘Een melding ontvangen’ en ‘Exposure notifcation’ is veranderd.
+- Alt-teksten statusscherm toegevoegd
+- link 'test- en onderzoeksversie toegevoegd
+
 ## Changelog 0.9 - week 31
 In 0.9 zitten dingen voor de toekomst maar ook voor de eerste release. 
 
@@ -6,7 +14,6 @@ In 0.9 zitten dingen voor de toekomst maar ook voor de eerste release.
 - Er is een aanduiding en uitleg toegevoegd dat iedereen die positief test anderen kunnen waarschuwen met CoronaMelder vanaf 1 september.
 - Pauzeer functionaliteit voorbereid. Er is nu een ontwerp dat kan werken onder voorwaarde dat dit technisch ook mogelijk is met de API van Google en Apple.
 - De wolkjes in het statusscherm in de inactieve en melding state zijn verwijderd.
-
 
 ## Changelog 0.8 - week 29
 
