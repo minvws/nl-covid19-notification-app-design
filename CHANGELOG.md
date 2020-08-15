@@ -145,6 +145,6 @@ Nog een extra shoutout naar Maarten Janssen voor zijn ideeën m.b.t. de testknop
 
 ---
 
-We hopen dat we niemand zijn vergeten in de credits. Naarmate er meer mensen meedoen zal het lastiger worden om bij te houden wie er heeft bijgedragen. We waarderen alle input enorm, en geloven dat deze ook essentieel is voor zowel de ontwikkeling als de uiteindelijke acceptatie en adoptie. Alleen samen kunnen we deze app tot een succes maken. Uiteindelijk willen we iedereen die heeft bijgedragen meenemen in een lijst in de app (subtiel verstopt).
+We hopen dat we niemand die heeft bijgedragen aan het app ontwerp, zijn vergeten te noemen. Maar hoe meer mensen meedoen, hoe het lastiger wordt om bij te houden wie er heeft bijgedragen. Uiteindelijk willen we iedereen die heeft bijgedragen meenemen in een (subtiel verstopte) lijst in de app. We waarderen alle input enorm en geloven dat deze van cruciaal belang is voor zowel de ontwikkeling als de uiteindelijke acceptatie en adoptie. Alleen samen kunnen we deze app tot een succes maken. 
 
 Een eerste versie staat hier: https://github.com/minvws/nl-covid19-notification-app-design/blob/master/%E2%9D%A4%EF%B8%8F
