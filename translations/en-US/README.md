@@ -1,12 +1,12 @@
 
-# Covid19 Notification App Design
+# COVID-19 Notification App Design
 
-Our intention is make the development and design of the Dutch COVID19 notification application as open and transparent as possible. We will share the designs and related documentation here as early and often as possible so that everyone has the chance to leave feedback and support the project.
+The development and design of the Dutch COVID-19 notification application CoronaMelder is as open and transparent as possible. Input and feedback are appreciated and taken seriously. All suggestions are welcome.
 
-## Important:
-* **This it not a simple project. Please take the time to read the documentation properly before asking a question.**
-* **We are now sharing designs early in the process. Please bear in mind that they are not the final designs: there will be changes made to the visual styles, copy, etc..**
-* **We will do our upmost best to read all of the comments and suggestions. However we may not be able to reply to all of them.**
+## Important
+* Please take the time to read the documentation before asking a question or give suggestions
+* We will do our utmost best to read all of the comments and suggestions. However, we may not be able to reply to all of them
+* After the launch of the app, the design will be changed less often
 
 ## Overview
 * [Requirements (Dutch)](https://www.rijksoverheid.nl/onderwerpen/coronavirus-app/documenten/publicaties/2020/05/19/programma-van-eisen)
@@ -30,26 +30,15 @@ Our intention is make the development and design of the Dutch COVID19 notificati
 ## How can you contribute?
 
 1. Join the [CodeForNL Slack](https://doemee.codefor.nl/) and go to the `#notificatie-app-design` channel. Although the primary language used on the channel is Dutch you should feel free to join the conversation in English.
-2. If you want to actively contribute to the design then you can request access to the private Figma by sending a DM to [@jelleprins](https://www.twitter.com/jelleprins) with your email address. Then you can create your own page within Figma.
-3. You can use GitHub to make suggestions or improvements to the contents of this repository.
+2. If you want to actively contribute to the design via comments or your own design suggestions, request access to the read-only Figma. Send a DM to [@jelleprins](https://www.twitter.com/jelleprins) with your email address for access
+3. For the content published in this repository on GitHub, you can comment and make suggestions via GitHub
 
 ### Take a look at the latest designs
 
-The latest version of our designs is share in [this Figma](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)). Here you will see the status of each part of the design: which parts are finished and which parts still require some work.
+In [this Figma](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)) we share the latest version of the designs. 
 
-The page with the highest number is the stable version. For each version there is a changelog available where we list the changes that have been made since the previous release.
-
-Comments and answers made in older shared versions will remain available there.
-
-You can contribute by making questions and comments. All of your suggestions are welcome: we'll do our absolute best to read all of you suggestions, answer all of your questions and incorporate all of the good suggestions into the designs. However we cannot promise that all the suggestions will be incorporated.
-
-### Join the discussion on our Slack channel
-
-Questions or reactions via the Slack community of CodeForNL (`#notificatie-app-design` channel). Register via https://doemee.codefor.nl/. Members of the design team follow the discussion and where possible also join in.
-
-#### Contribute to our public challenges
-
-Sometimes even we don't have all of the the answers so we look to you - the public - for help. We convert the design mountains into challenges which you can contribute to in our publically available Figma file. Everyone on their own page. Want to contribute? Then you can request access by sending a Twitter DM to [@jelleprins](https://www.twitter.com/jelleprins).
+The ‘page’ with the highest number is the latest version. For each version, there is a [changelog](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/CHANGELOG.md) (in Dutch) available where we list the changes made since the previous version.
+Each version contains the comments and answers posted for that version.
 
 ---
 
