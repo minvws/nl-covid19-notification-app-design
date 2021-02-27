@@ -14,7 +14,6 @@ Met Bluetooth Low Energy (BLE) kan niet exact worden vastgesteld hoe dicht gebru
 
 De applicatie zal geïnstalleerd worden op een zeer breed scala aan mobiele telefoons, waaronder ook veel oudere modellen. Er zijn dus beperkingen als het gaat om schermgrootte, mogelijkheden van de mobiele telefoons, etc. Daarnaast is het belangrijk dat de app goed te vertalen (lokaliseren) is zonder grote wijzigingen aan het ontwerp te maken.
 
-
 ### Het ontwerp is makkelijk te implementeren.
 
 Snelheid is van belang. In het ontwerp gebruiken we standaard platform componenten voor de gebruikers interface, zodat deze snel en efficiënt gebouwd kan worden. En developers hun beperkte tijd en energie kunnen steken in de relatief complexe onderliggende systemen.
