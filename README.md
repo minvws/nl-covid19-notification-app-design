@@ -13,38 +13,38 @@ Het ontwikkelen en ontwerpen van de Nederlandse COVID-19 Notificatie App CoronaM
 * [Design Principes](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/design-principes.md)
 * [Job Stories](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/job-stories.md)
 * [Gebruikersonderzoek](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/gebruikersonderzoek.md)
-  * [Community review translations](http://corona.sticktailapp.com/study-share/k5v3jTCWCRf6/community-review-translations-164/) - week 33
-  * [UX test video nut & noodzaak, app store, privacy consent & FAQ](http://corona.sticktailapp.com/study-share/3gDNdUOjikr9/app-store-en-privacy-consent-860/) - week 33
-  * [Usability test Arabische vertaling app](http://corona.sticktailapp.com/study-share/Y8ZAYdJ3ediE/arabische-versie-app-901/) - week 32
-  * [Kwantitatieve vergelijking app store visuals](http://corona.sticktailapp.com/study-share/2U64Ge4noSW4/kwantitatieve-vergelijking-app-store-visuals-587/) - week 32
-  * [Test app-portaal 0.3 en e-learning 0.1 bij de GGD](http://corona.sticktailapp.com/study-share/oLE5AHArHrzt/test-app-portaal-bij-de-ggd-702/) - week 30
-  * [Testen met blinden en slechtzienden](http://corona.sticktailapp.com/study-share/CD54YrpEfdf5/onderzoek-met-blinden-en-slechtzienden-808/) - week 30
-  * [Kwantitatieve vergelijking onboarding flows](http://corona.sticktailapp.com/study-share/C03NKetukv2o/effect-10-minuten-melding-15-minuten-melding-op-adoptiebereidheid-297/) - Week 30
-  * [Inzichten meeloopdag GGD en test app-portaal 0.2](http://corona.sticktailapp.com/study-share/z7FWobsVMbIe/meelopen-en-test-ggd-169/) - week 29
-  * [Inzichten dubbeltest GGD en app-gebruikers](http://corona.sticktailapp.com/study-share/mgzWw55GdKxA/dubbeltest-app-app-portaal-115/) - week 29
-  * [Inzichten meeloopdag GGD en test app-portaal 0.1](http://corona.sticktailapp.com/study-share/pJjR4djzQYWt/app-portaal-testen-bij-de-ggd-714/) - week 28
-  * [Testen met 60+'ers](https://corona.sticktailapp.com/study-share/AavfftUW8jca/coronamelder-app-onderzoek-met-60ers-785/) - week 28
-  * [Testen met mensen met een motorische beperking](http://corona.sticktailapp.com/study-share/5mRZSO3uP5FY/onderzoek-met-mensen-met-een-motorische-beperking-942/) - week 27
-  * [Testen met mensen met een licht verstandelijke beperking (Door Leer zelf online)](http://corona.sticktailapp.com/study-share/9o27yOkvGf2y/onderzoek-met-mensen-735/) - week 27
-  * [Testen met mensen met een licht verstandelijke beperking (MEE Rotterdam)](https://corona.sticktailapp.com/study-share/tNTEz0LhQAxe/testen-met-mensen-met-een-licht-verstandelijke-beperking-683/) - week 27
-  * [Testen met wijkbewoners met een lage SES](http://corona.sticktailapp.com/study-share/EvM0wDONKqem/app-testen-met-wijkbewoners-met-een-laag-sociaal-economische-status-679/) - week 27
-  * [Testen met taalambassadeurs](https://corona.sticktailapp.com/study-share/wChGqrj8vYf4/in-gesprek-met-taalambassadeurs-559/) - week 27
-  * [Inzichten meeloopdag GGD](http://corona.sticktailapp.com/study-share/r5XRgcAehLpB/meeloopdag-ggd-330/) - week 25
-  * [Inzichten meeloopdag Testfaciliteit](http://corona.sticktailapp.com/study-share/F29AF8mGiOUF/meelopen-in-testfaciliteit-644/) - week 24
-  * [Inzichten meeloopdag Bron- en Contactonderzoek GGD](http://corona.sticktailapp.com/study-share/tHbLG3OXvq3H/meeloopdag-ggd-bron-en-contactonderzoek-804/) - week 23
-  * [Interview ex-patienten](http://corona.sticktailapp.com/study-share/v6vryvdVID83/interviews-ex-patienten-513/) - week 23
-  * [Inzichten meeloopdag GGD](http://corona.sticktailapp.com/study-share/AeHf5ulXRQL4/meeloopdag-ggd-fryslan-324/) - week 21
-  * [Veldtest versie - Usability & experience onderzoek](http://corona.sticktailapp.com/study-share/2P67KThIQZeB/veldtest-versie-usability-experience-onderzoek-210/) - week 26
-  * [0.7 Usability onderzoek – twijfelaars en positief melden](http://corona.sticktailapp.com/study-share/r8Rc4KJ6Lsw9/07-usability-onderzoek-twijfelaars-en-positief-melden-506/) - week 25
-  * [Kwantitative vergelijking verschillende onboarding flows](http://corona.sticktailapp.com/study-share/HWEDadBMRIIP/kwantitatieve-vergelijking-van-variaties-op-onboarding-245/) - Week 24
-  * [0.6 Usability & Experience test](http://corona.sticktailapp.com/study-share/7xoRpYAcfqrs/06-usability-experience-onderzoek-338/) - Week 24
-  * [0.5 Usability & Experience test](http://corona.sticktailapp.com/study-share/EOLxHj4vcDDv/054-usability-experience-onderzoek-178/) - Week 23
-  * [0.4 Usability & Experience test design onboarding](http://corona.sticktailapp.com/study-share/IuQFjGjzAvVC/04-unmoderated-onboarding-onderzoek-413/) - Week 22
-  * [0.3 Usability & Experience test design iteratie](http://corona.sticktailapp.com/study-share/JphqssUlt6dM/usability-onderzoek-iteratie-2-469/) - week 21
-  * [0.2 Usability & Experience test design iteratie](http://corona.sticktailapp.com/study-share/7HS72WW8JQhO/design-iteratie-test-door-ux-team-921/) - week 20
+  * [Community review translations](https://corona.reveall.co/study-share/k5v3jTCWCRf6/community-review-translations-164/) - week 33
+  * [UX test video nut & noodzaak, app store, privacy consent & FAQ](https://corona.reveall.co/study-share/3gDNdUOjikr9/app-store-en-privacy-consent-860/) - week 33
+  * [Usability test Arabische vertaling app](https://corona.reveall.co/study-share/Y8ZAYdJ3ediE/arabische-versie-app-901/) - week 32
+  * [Kwantitatieve vergelijking app store visuals](https://corona.reveall.co/study-share/2U64Ge4noSW4/kwantitatieve-vergelijking-app-store-visuals-587/) - week 32
+  * [Test app-portaal 0.3 en e-learning 0.1 bij de GGD](https://corona.reveall.co/study-share/oLE5AHArHrzt/test-app-portaal-bij-de-ggd-702/) - week 30
+  * [Testen met blinden en slechtzienden](https://corona.reveall.co/study-share/CD54YrpEfdf5/onderzoek-met-blinden-en-slechtzienden-808/) - week 30
+  * [Kwantitatieve vergelijking onboarding flows](https://corona.reveall.co/study-share/C03NKetukv2o/effect-10-minuten-melding-15-minuten-melding-op-adoptiebereidheid-297/) - Week 30
+  * [Inzichten meeloopdag GGD en test app-portaal 0.2](https://corona.reveall.co/study-share/z7FWobsVMbIe/meelopen-en-test-ggd-169/) - week 29
+  * [Inzichten dubbeltest GGD en app-gebruikers](https://corona.reveall.co/study-share/mgzWw55GdKxA/dubbeltest-app-app-portaal-115/) - week 29
+  * [Inzichten meeloopdag GGD en test app-portaal 0.1](https://corona.reveall.co/study-share/pJjR4djzQYWt/app-portaal-testen-bij-de-ggd-714/) - week 28
+  * [Testen met 60+'ers](https://reveall.co/study-share/AavfftUW8jca/coronamelder-app-onderzoek-met-60ers-785/) - week 28
+  * [Testen met mensen met een motorische beperking](https://corona.reveall.co/study-share/5mRZSO3uP5FY/onderzoek-met-mensen-met-een-motorische-beperking-942/) - week 27
+  * [Testen met mensen met een licht verstandelijke beperking (Door Leer zelf online)](https://corona.reveall.co/study-share/9o27yOkvGf2y/onderzoek-met-mensen-735/) - week 27
+  * [Testen met mensen met een licht verstandelijke beperking (MEE Rotterdam)](https://reveall.co/study-share/tNTEz0LhQAxe/testen-met-mensen-met-een-licht-verstandelijke-beperking-683/) - week 27
+  * [Testen met wijkbewoners met een lage SES](https://corona.reveall.co/study-share/EvM0wDONKqem/app-testen-met-wijkbewoners-met-een-laag-sociaal-economische-status-679/) - week 27
+  * [Testen met taalambassadeurs](https://reveall.co/study-share/wChGqrj8vYf4/in-gesprek-met-taalambassadeurs-559/) - week 27
+  * [Inzichten meeloopdag GGD](https://corona.reveall.co/study-share/r5XRgcAehLpB/meeloopdag-ggd-330/) - week 25
+  * [Inzichten meeloopdag Testfaciliteit](https://corona.reveall.co/study-share/F29AF8mGiOUF/meelopen-in-testfaciliteit-644/) - week 24
+  * [Inzichten meeloopdag Bron- en Contactonderzoek GGD](https://corona.reveall.co/study-share/tHbLG3OXvq3H/meeloopdag-ggd-bron-en-contactonderzoek-804/) - week 23
+  * [Interview ex-patienten](https://corona.reveall.co/study-share/v6vryvdVID83/interviews-ex-patienten-513/) - week 23
+  * [Inzichten meeloopdag GGD](https://corona.reveall.co/study-share/AeHf5ulXRQL4/meeloopdag-ggd-fryslan-324/) - week 21
+  * [Veldtest versie - Usability & experience onderzoek](https://corona.reveall.co/study-share/2P67KThIQZeB/veldtest-versie-usability-experience-onderzoek-210/) - week 26
+  * [0.7 Usability onderzoek – twijfelaars en positief melden](https://corona.reveall.co/study-share/r8Rc4KJ6Lsw9/07-usability-onderzoek-twijfelaars-en-positief-melden-506/) - week 25
+  * [Kwantitative vergelijking verschillende onboarding flows](https://corona.reveall.co/study-share/HWEDadBMRIIP/kwantitatieve-vergelijking-van-variaties-op-onboarding-245/) - Week 24
+  * [0.6 Usability & Experience test](https://corona.reveall.co/study-share/7xoRpYAcfqrs/06-usability-experience-onderzoek-338/) - Week 24
+  * [0.5 Usability & Experience test](https://corona.reveall.co/study-share/EOLxHj4vcDDv/054-usability-experience-onderzoek-178/) - Week 23
+  * [0.4 Usability & Experience test design onboarding](https://corona.reveall.co/study-share/IuQFjGjzAvVC/04-unmoderated-onboarding-onderzoek-413/) - Week 22
+  * [0.3 Usability & Experience test design iteratie](https://corona.reveall.co/study-share/JphqssUlt6dM/usability-onderzoek-iteratie-2-469/) - week 21
+  * [0.2 Usability & Experience test design iteratie](https://corona.reveall.co/study-share/7HS72WW8JQhO/design-iteratie-test-door-ux-team-921/) - week 20
   * [Analyse GGD-processen met onderzoeksvragen](https://miro.com/app/board/o9J_ks176Fk=/) - week 20
-  * [0.1 Usability & Experience test van Corona referentie app](https://corona.sticktailapp.com/study-share/VJBHjC35hae9/usability-experience-test-van-corona-referentie-app-972/) - week 19
-  * [Hoe gebruikers over de corona-app denken en waarom hun stem belangrijk is](http://corona.sticktailapp.com/study-share/vvvH2cNcFQTC/verkennend-onderzoek-corona-apps-735/) - week 17
+  * [0.1 Usability & Experience test van Corona referentie app](https://reveall.co/study-share/VJBHjC35hae9/usability-experience-test-van-corona-referentie-app-972/) - week 19
+  * [Hoe gebruikers over de corona-app denken en waarom hun stem belangrijk is](https://corona.reveall.co/study-share/vvvH2cNcFQTC/verkennend-onderzoek-corona-apps-735/) - week 17
 * Designs
   * [Versie 1.0](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)?node-id=35995%3A0) ([Changelog](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/CHANGELOG.md#changelog-10---week-33)) - week 33
   * [Versie 0.9](https://www.figma.com/file/EJ4aJwKnemkxysCZ6aAzFv/Covid-19-notificatie-app-(Read-only)?node-id=35498%3A196) ([Changelog](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/CHANGELOG.md#changelog-09---week-31)) - week 31 
